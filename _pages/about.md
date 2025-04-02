@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Qirui Mi (米祈睿)"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -17,42 +17,124 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a Ph.D. student at the Institute of Automation, Chinese Academy of Sciences (CASIA), working in [the Collective Decision Intelligence Lab](http://marl.ia.ac.cn), under the supervision of [Prof. Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/) and [Prof. Haifeng Zhang](https://pkuzhf.github.io). Currently, I am a Visiting Ph.D. student at Nanyang Technological University (NTU), co-advised by [Prof. Bo An](https://personal.ntu.edu.sg/boan/).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<font color="blue">My research interests mainly focus on these aspects: </font>
+
+- **AI Agents**: Reinforcement Learning (RL) agents, Large Language Model (LLM) agents, Multi-Agent Systems, Population-agent system, Game Theory.
+
+- **AI for Economics**: Agent-based modeling, Economic simulations, and Social simulations.
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Education
 
-# 📝 Publications 
+- **Ph.D. in Pattern Recognition and Intelligent Systems, [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/)**  
+  Aug. 2021 – Present, Beijing, China  
+  Supervisor:  [Prof. Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/) and [Prof. Haifeng Zhang](https://pkuzhf.github.io)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- **Visiting Ph.D. in College of Computing and Data Science (CCDS), [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/)**  
+  Oct. 2024 – Present, Singapore  
+  Supervisor: [Prof. Bo An](https://personal.ntu.edu.sg/boan/)
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📝 Selected Publications  
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">AAMAS 2024 (Oral)</div>
+      <img src='images/publications/TaxAI_AAMAS24.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **TaxAI: A Dynamic Economic Simulator and Benchmark for Multi-Agent Reinforcement Learning, AAMAS 2024 (Oral)**
+
+  **Qirui Mi**, Siyu Xia, Yan Song, Haifeng Zhang, Shenghao Zhu, Jun Wang
+
+  [Paper](https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p1390.pdf), [Github](https://github.com/jidiai/TaxAI)
+
+  </div>
 </div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/publications/SMFG.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **Learning Macroeconomic Policies based on Microfoundations: A Stackelberg Mean Field Game Approach (under-review)**
+
+  **Qirui Mi**, Zhiyu Zhao, Siyu Xia, Yan Song, Jun Wang, Haifeng Zhang
+
+  [Paper](https://arxiv.org/abs/2403.12093)
+
+  </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">joint_cache.png</div>
+      <img src='images/publications/GLOBECOM21.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **Joint Caching and Transmission in the Mobile Edge Network: A Multi-Agent Learning Approach, GLOBECOM 2021**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+  **Qirui Mi**, Ning Yang, Haifeng Zhang, Haijun Zhang, Jun Wang
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+  [Paper](https://ieeexplore.ieee.org/abstract/document/9685590)
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+  </div>
+</div>
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">AAMAS 2025</div>
+      <img src='images/publications/AMFCE_AAMAS25.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **Mean Field Correlated Imitation Learning, AAMAS 2025**
+
+  Zhiyu Zhao, **Qirui Mi**, Ning Yang, Xue Yan, Haifeng Zhang, Jun Wang, Yaodong Yang
+
+  [Paper](https://arxiv.org/abs/2404.09324)
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">NeurIPS 2024</div>
+      <img src='images/publications/starcraft_LLM.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **Large Language Models Play StarCraft II: Benchmarks and a Chain of Summarization Approach, NeurIPS 2024**
+
+  Weiyu Ma, **Qirui Mi**, Yongcheng Zeng, Xue Yan, Yuqiao Wu, Runji Lin, Haifeng Zhang, Jun Wang
+
+  [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f0ebc318e2df08360b2df559e81602e5-Abstract-Conference.html)
+
+  </div>
+</div>
+
+
+# 🏆 Awards
+
+- 优秀学生干部 · 2024  
+- 优秀三好学生 · 2023  
+- 北京市普通高等学校优秀毕业生 · 2021  
+- 北京市普通高校优秀本科毕业设计 · 2021  
+- 美国大学生数学建模竞赛 M 奖 · 2019  
+- 第十届“挑战杯”首都大学生课外学术科技作品竞赛二等奖 · 2019  
