@@ -36,6 +36,20 @@ I am a Ph.D. student at the Institute of Automation, Chinese Academy of Sciences
   Oct. 2024 – Present, Singapore  
   Supervisor: [Prof. Bo An](https://personal.ntu.edu.sg/boan/)
 
+# 🔥 News
+
+- **2025.3**: Our [AAMAS 2025 Computational Economic Competition](http://jidiai.cn/aamas_tax_2025/) has officially started!
+- **2025.3**: Invited to give a talk at the *Dadao Forum (大道论坛)* hosted by Shandong Institute of Business and Technology, titled *"Game-Theoretic Agents for Economic and Social Governance"* [Talk Poster](../images/publications/shandong_talk.png)
+- **2025.2**: Our competition proposals were accepted by [AAMAS 2025](https://aamas2025.org/).
+- **2024.12**: Attended the [4th Workshop on Network Economics and Game Theory](https://asleepx.github.io/Workshop/).
+- **2024.12**: Gave invited talks at Shanghai Jiao Tong University ([JHC Lecture Series](https://mp.weixin.qq.com/s/sHpYNGbdhmb1I_BALd9NXg)) and Fudan University on *"Game-Theoretic Agents for Economic Problems"*.
+- **2024.12**: Gave an invited talk at [DAI 2024](https://www.adai.ai/dai/2024/index.html).
+- **2024.12**: Our paper was accepted to AAMAS 2025: [*Mean Field Correlated Imitation Learning*](https://arxiv.org/abs/2404.09324).
+- **2024.10**: Started a visiting position in Prof. Bo An’s group.
+- **2024.9**: Our paper was accepted to NeurIPS 2024: [*Large Language Models Play StarCraft II: Benchmarks and a Chain of Summarization Approach*](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f0ebc318e2df08360b2df559e81602e5-Abstract-Conference.html).
+- **2024.5**: Attended [AAMAS 2024](https://www.aamas2024-conference.auckland.ac.nz/) and gave an oral presentation.
+- **2023.12**: Our paper was accepted to AAMAS 2024 (Oral): [TaxAI: A Dynamic Economic Simulator and Benchmark for Multi-Agent Reinforcement Learning](https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p1390.pdf)
+
 
 
 # 📝 Selected Publications  
@@ -44,7 +58,7 @@ I am a Ph.D. student at the Institute of Automation, Chinese Academy of Sciences
   <div class='paper-box-image'>
     <div>
       <div class="badge">AAMAS 2024 (Oral)</div>
-      <img src='images/publications/TaxAI_AAMAS24.png' alt="sym" width="100%">
+      <img src='../images/publications/TaxAI_AAMAS24.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -61,7 +75,7 @@ I am a Ph.D. student at the Institute of Automation, Chinese Academy of Sciences
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='images/publications/SMFG.png' alt="sym" width="100%">
+      <img src='../images/publications/SMFG.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -79,7 +93,7 @@ I am a Ph.D. student at the Institute of Automation, Chinese Academy of Sciences
   <div class='paper-box-image'>
     <div>
       <div class="badge">GLOBECOM 2021</div>
-      <img src='images/publications/joint_cache.png' alt="sym" width="100%">
+      <img src='../images/publications/joint_cache.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -97,7 +111,7 @@ I am a Ph.D. student at the Institute of Automation, Chinese Academy of Sciences
   <div class='paper-box-image'>
     <div>
       <div class="badge">AAMAS 2025</div>
-      <img src='images/publications/AMFCE_AAMAS25.png' alt="sym" width="100%">
+      <img src='../images/publications/AMFCE_AAMAS25.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -115,7 +129,7 @@ I am a Ph.D. student at the Institute of Automation, Chinese Academy of Sciences
   <div class='paper-box-image'>
     <div>
       <div class="badge">NeurIPS 2024</div>
-      <img src='images/publications/starcraft_LLM.png' alt="sym" width="100%">
+      <img src='../images/publications/starcraft_LLM.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">

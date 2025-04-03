@@ -21,13 +21,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Qirui Mi"
+  name             : "Qirui Mi (米祈睿)"
   avatar           : "images/miqirui.JPG"
-  bio              : "米祈睿, PHD student, Institute of Automation, Chinese Academy of Sciences"
+  bio              : "PHD student, CASIA"
   location         : "Beijing, China"
   employer         : 
   pubmed           : 
-  googlescholar    : # "https://scholar.google.com/citations?user=PaRrsDcAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=PaRrsDcAAAAJ"
   email            : "miqirui2021@ia.ac.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
