@@ -58,7 +58,7 @@ I am a Ph.D. student at the Institute of Automation, Chinese Academy of Sciences
   <div class='paper-box-image'>
     <div>
       <div class="badge">AAMAS 2024 (Oral)</div>
-      <img src='../images/publications/TaxAI_AAMAS24.png' alt="sym" width="100%">
+      <img src='images/publications/TaxAI_AAMAS24.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -75,7 +75,7 @@ I am a Ph.D. student at the Institute of Automation, Chinese Academy of Sciences
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='../images/publications/SMFG.png' alt="sym" width="100%">
+      <img src='images/publications/SMFG.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -93,7 +93,7 @@ I am a Ph.D. student at the Institute of Automation, Chinese Academy of Sciences
   <div class='paper-box-image'>
     <div>
       <div class="badge">GLOBECOM 2021</div>
-      <img src='../images/publications/joint_cache.png' alt="sym" width="100%">
+      <img src='images/publications/joint_cache.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -111,7 +111,7 @@ I am a Ph.D. student at the Institute of Automation, Chinese Academy of Sciences
   <div class='paper-box-image'>
     <div>
       <div class="badge">AAMAS 2025</div>
-      <img src='../images/publications/AMFCE_AAMAS25.png' alt="sym" width="100%">
+      <img src='images/publications/AMFCE_AAMAS25.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -129,7 +129,7 @@ I am a Ph.D. student at the Institute of Automation, Chinese Academy of Sciences
   <div class='paper-box-image'>
     <div>
       <div class="badge">NeurIPS 2024</div>
-      <img src='../images/publications/starcraft_LLM.png' alt="sym" width="100%">
+      <img src='images/publications/starcraft_LLM.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
