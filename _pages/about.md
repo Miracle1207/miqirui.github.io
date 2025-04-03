@@ -78,8 +78,8 @@ I am a Ph.D. student at the Institute of Automation, Chinese Academy of Sciences
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">joint_cache.png</div>
-      <img src='images/publications/GLOBECOM21.png' alt="sym" width="100%">
+      <div class="badge">GLOBECOM 2021</div>
+      <img src='images/publications/joint_cache.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
