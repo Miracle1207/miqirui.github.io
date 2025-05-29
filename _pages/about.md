@@ -38,6 +38,9 @@ I am a Ph.D. student at the Institute of Automation, Chinese Academy of Sciences
 
 # 🔥 News
 
+* **2025.5**: Attended [AAMAS 2025](https://aamas2025.org/) and gave talks on the AAMAS Competition and our accepted paper [*Mean Field Correlated Imitation Learning*](https://arxiv.org/abs/2404.09324).
+* **2025.5**: Our [AAMAS 2025 Computational Economic Competition](http://jidiai.cn/aamas_tax_2025/) has successfully concluded!
+* **2025.5**: Released our new paper [*MF-LLM: Simulating Population Decision Dynamics via a Mean-Field Large Language Model Framework*](https://arxiv.org/abs/2504.21582).
 - **2025.3**: Our [AAMAS 2025 Computational Economic Competition](http://jidiai.cn/aamas_tax_2025/) has officially started!
 - **2025.3**: Invited to give a talk at the *Dadao Forum (大道论坛)* hosted by Shandong Institute of Business and Technology, titled *"Game-Theoretic Agents for Economic and Social Governance"* [Talk Poster](../images/publications/shandong_talk.png)
 - **2025.2**: Our competition proposals were accepted by [AAMAS 2025](https://aamas2025.org/).
@@ -53,6 +56,24 @@ I am a Ph.D. student at the Institute of Automation, Chinese Academy of Sciences
 
 
 # 📝 Selected Publications  
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Preprint</div>
+      <img src='images/publications/mf_llm.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **MF-LLM: Simulating Population Decision Dynamics via a Mean-Field Large Language Model Framework**
+
+  **Qirui Mi**, Mengyue Yang, Xiangning Yu, Zhiyu Zhao, Cheng Deng, Bo An, Haifeng Zhang, Xu Chen, Jun Wang
+
+  [Paper](https://arxiv.org/abs/2504.21582)
+
+  </div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -75,6 +96,7 @@ I am a Ph.D. student at the Institute of Automation, Chinese Academy of Sciences
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <div class="badge">Preprint</div>
       <img src='images/publications/SMFG.png' alt="sym" width="100%">
     </div>
   </div>
