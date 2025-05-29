@@ -175,11 +175,3 @@ I am a Ph.D. student at the Institute of Automation, Chinese Academy of Sciences
 * Second Prize, 10th 'Challenge Cup' Academic and Technological Works Competition for Beijing College Students · 2019
 
 
-
-
-<div style="width: 300px; height: 300px; overflow: hidden; margin: 0 auto;">
-  <script type="text/javascript" id="clstr_globe"
-    src="//clustrmaps.com/globe.js?d=Hd9S-0zexBCPPEBu1KrgPWc7WTvBOTc44nSdFm_qHOY">
-  </script>
-</div>
-<div style="text-align: center; font-weight: bold; margin-top: 10px;">🌍 Visitors Map</div>
