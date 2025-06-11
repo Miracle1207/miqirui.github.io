@@ -84,7 +84,7 @@ I am a Ph.D. student at the Institute of Automation, Chinese Academy of Sciences
   </div>
   <div class='paper-box-text' markdown="1">
   
-  **Learning Macroeconomic Policies based on Microfoundations: A Stackelberg Mean Field Game Approach (under-review)**
+  **Learning Macroeconomic Policies through Dynamic Stackelberg Mean-Field Games**
 
   **Qirui Mi**, Zhiyu Zhao, Siyu Xia, Yan Song, Jun Wang, Haifeng Zhang
 
