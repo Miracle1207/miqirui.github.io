@@ -78,24 +78,6 @@ I am a Ph.D. student at the Institute of Automation, Chinese Academy of Sciences
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">AAMAS 2024 (Oral)</div>
-      <img src='images/publications/TaxAI_AAMAS24.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-  
-  **TaxAI: A Dynamic Economic Simulator and Benchmark for Multi-Agent Reinforcement Learning, AAMAS 2024 (Oral)**
-
-  **Qirui Mi**, Siyu Xia, Yan Song, Haifeng Zhang, Shenghao Zhu, Jun Wang
-
-  [Paper](https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p1390.pdf), [Github](https://github.com/jidiai/TaxAI)
-
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
       <div class="badge">Preprint</div>
       <img src='images/publications/SMFG.png' alt="sym" width="100%">
     </div>
@@ -107,24 +89,6 @@ I am a Ph.D. student at the Institute of Automation, Chinese Academy of Sciences
   **Qirui Mi**, Zhiyu Zhao, Siyu Xia, Yan Song, Jun Wang, Haifeng Zhang
 
   [Paper](https://arxiv.org/abs/2403.12093)
-
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">GLOBECOM 2021</div>
-      <img src='images/publications/joint_cache.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-  
-  **Joint Caching and Transmission in the Mobile Edge Network: A Multi-Agent Learning Approach, GLOBECOM 2021**
-
-  **Qirui Mi**, Ning Yang, Haifeng Zhang, Haijun Zhang, Jun Wang
-
-  [Paper](https://ieeexplore.ieee.org/abstract/document/9685590)
 
   </div>
 </div>
@@ -164,6 +128,46 @@ I am a Ph.D. student at the Institute of Automation, Chinese Academy of Sciences
 
   </div>
 </div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">AAMAS 2024 (Oral)</div>
+      <img src='images/publications/TaxAI_AAMAS24.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **TaxAI: A Dynamic Economic Simulator and Benchmark for Multi-Agent Reinforcement Learning, AAMAS 2024 (Oral)**
+
+  **Qirui Mi**, Siyu Xia, Yan Song, Haifeng Zhang, Shenghao Zhu, Jun Wang
+
+  [Paper](https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p1390.pdf), [Github](https://github.com/jidiai/TaxAI)
+
+  </div>
+</div>
+
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">GLOBECOM 2021</div>
+      <img src='images/publications/joint_cache.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **Joint Caching and Transmission in the Mobile Edge Network: A Multi-Agent Learning Approach, GLOBECOM 2021**
+
+  **Qirui Mi**, Ning Yang, Haifeng Zhang, Haijun Zhang, Jun Wang
+
+  [Paper](https://ieeexplore.ieee.org/abstract/document/9685590)
+
+  </div>
+</div>
+
+
 
 
 # 🏆 Awards
