@@ -39,7 +39,7 @@ We are closely collaborating with [Prof. Bo Li](https://liboecon.com/) from Peki
   Supervisor: [Prof. Bo An](https://personal.ntu.edu.sg/boan/)
 
 # 🔥 News
-📢 I am currently on the **job market** for Fall 2026 positions. You can find my [**Curriculum Vitae (CV)**](https://github.com/Miracle1207/miqirui.github.io/blob/main/docs/MI_QIRUI_CV.pdf) here. If you are interested in my work, please feel free to reach out via email.
+📢 I am currently on the **job market** for Fall 2026 positions. You can find my [**Curriculum Vitae (CV)**](../images/CV/MI_QIRUI_CV.pdf) here. If you are interested in my work, please feel free to reach out via email.
 
 * **2025.6.30–7.1**: I will present the latest progress on **EconGym** at the *Conference of Machine Learning in Economics* hosted by [**Prof. Bo Li**](https://liboecon.com/) at Peking University.
 * **2025.6**: We released [**EconGym**](https://www.arxiv.org/pdf/2506.12110), a unified simulation platform bridging economics and AI, covering 25+ real-world economic tasks. 🌐 [website](https://miracle1207.github.io/econgym_page/)
