@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a Ph.D. student at the Institute of Automation, Chinese Academy of Sciences (CASIA), working in [the Collective Decision Intelligence Lab](http://marl.ia.ac.cn), under the supervision of [Prof. Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/) and [Prof. Haifeng Zhang](https://pkuzhf.github.io). Currently, I am a Visiting Ph.D. student at Nanyang Technological University (NTU), co-advised by [Prof. Bo An](https://personal.ntu.edu.sg/boan/).
+
 We are closely collaborating with [Prof. Bo Li](https://liboecon.com/) from Peking University on research at the intersection of AI and economics.
 
 <font color="blue">My research interests mainly focus on these aspects: </font>
@@ -38,8 +39,7 @@ We are closely collaborating with [Prof. Bo Li](https://liboecon.com/) from Peki
   Supervisor: [Prof. Bo An](https://personal.ntu.edu.sg/boan/)
 
 # 🔥 News
-📢 I am currently on the **job market** for Fall 2026 positions. You can find my [**Curriculum Vitae (CV)**](docs/MI_QIRUI_CV.pdf) here. If you are interested in my work, please feel free to reach out via email.
-
+📢 I am currently on the **job market** for Fall 2026 positions. You can find my [**Curriculum Vitae (CV)**](../docs/MI_QIRUI_CV.pdf) here. If you are interested in my work, please feel free to reach out via email.
 
 * **2025.6.30–7.1**: I will present the latest progress on **EconGym** at the *Conference of Machine Learning in Economics* hosted by [**Prof. Bo Li**](https://liboecon.com/) at Peking University.
 * **2025.6**: We released [**EconGym**](https://www.arxiv.org/pdf/2506.12110), a unified simulation platform bridging economics and AI, covering 25+ real-world economic tasks. 🌐 [website](https://miracle1207.github.io/econgym_page/)
@@ -75,7 +75,7 @@ We are closely collaborating with [Prof. Bo Li](https://liboecon.com/) from Peki
 
   **Qirui Mi**, Qipeng Yang, Zijun Fan, Wentian Fan, Heyang Ma, Chengdong Ma, Siyu Xia, Bo An, Jun Wang, Haifeng Zhang
 
-  [Paper](https://www.arxiv.org/pdf/2506.12110) | [Website](https://miracle1207.github.io/econgym_page/)
+  [Paper](https://www.arxiv.org/pdf/2506.12110), [Website](https://miracle1207.github.io/econgym_page/)
 
   </div>
 </div>
@@ -165,7 +165,7 @@ We are closely collaborating with [Prof. Bo Li](https://liboecon.com/) from Peki
 
   **Qirui Mi**, Siyu Xia, Yan Song, Haifeng Zhang, Shenghao Zhu, Jun Wang
 
-  [Paper](https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p1390.pdf) | [Github](https://github.com/jidiai/TaxAI)
+  [Paper](https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p1390.pdf), [Github](https://github.com/jidiai/TaxAI)
 
   </div>
 </div>
