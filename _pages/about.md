@@ -40,12 +40,12 @@ We are closely collaborating with [Prof. Bo Li](https://liboecon.com/) from Peki
 
 # 🔥 News
 📢 I am currently on the **job market** for Fall 2026 positions. You can find my [**Curriculum Vitae (CV)**](../images/CV/MI_QIRUI_CV.pdf) here. If you are interested in my work, please feel free to reach out via email.
-
-* **2025.6.30–7.1**: I will present the latest progress on **EconGym** at the *Conference of Machine Learning in Economics* hosted by [**Prof. Bo Li**](https://liboecon.com/) at Peking University.
-* **2025.6**: We released [**EconGym**](https://www.arxiv.org/pdf/2506.12110), a unified simulation platform bridging economics and AI, covering 25+ real-world economic tasks. 🌐 [website](https://miracle1207.github.io/econgym_page/)
-* **2025.5**: Attended [AAMAS 2025](https://aamas2025.org/) and gave talks on the AAMAS Competition and our accepted paper [*Mean Field Correlated Imitation Learning*](https://arxiv.org/abs/2404.09324).
-* **2025.5**: Our [AAMAS 2025 Computational Economic Competition](http://jidiai.cn/aamas_tax_2025/) has successfully concluded!
-* **2025.5**: Released our new paper [*MF-LLM: Simulating Population Decision Dynamics via a Mean-Field Large Language Model Framework*](https://arxiv.org/abs/2504.21582).
+- **2025.7**: Our paper was accepted to ECAI 2025: [*Learning Macroeconomic Policies through Dynamic Stackelberg Mean-Field Games*](https://arxiv.org/abs/2403.12093)
+- **2025.6.30–7.1**: I presented [**EconGym**](https://www.arxiv.org/pdf/2506.12110) at the [Conference on Machine Learning in Economics](https://liboecon.com/program.html), organized by [Prof. Bo Li](https://liboecon.com/) at Peking University.
+- **2025.6**: We released [**EconGym**](https://www.arxiv.org/pdf/2506.12110), a unified simulation platform bridging economics and AI, covering 25+ real-world economic tasks. 🌐 [website](https://miracle1207.github.io/econgym_page/)
+- **2025.5**: Attended [AAMAS 2025](https://aamas2025.org/) and gave talks on the AAMAS Competition and our accepted paper [*Mean Field Correlated Imitation Learning*](https://arxiv.org/abs/2404.09324).
+- **2025.5**: Our [AAMAS 2025 Computational Economic Competition](http://jidiai.cn/aamas_tax_2025/) has successfully concluded!
+- **2025.5**: Released our new paper [*MF-LLM: Simulating Population Decision Dynamics via a Mean-Field Large Language Model Framework*](https://arxiv.org/abs/2504.21582).
 - **2025.3**: Our [AAMAS 2025 Computational Economic Competition](http://jidiai.cn/aamas_tax_2025/) has officially started!
 - **2025.3**: Invited to give a talk at the *Dadao Forum (大道论坛)* hosted by Shandong Institute of Business and Technology, titled *"Game-Theoretic Agents for Economic and Social Governance"* [Talk Poster](../images/publications/shandong_talk.png)
 - **2025.2**: Our competition proposals were accepted by [AAMAS 2025](https://aamas2025.org/).
@@ -101,7 +101,7 @@ We are closely collaborating with [Prof. Bo Li](https://liboecon.com/) from Peki
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Preprint</div>
+      <div class="badge">ECAI 2025</div>
       <img src='images/publications/SMFG.png' alt="sym" width="100%">
     </div>
   </div>
