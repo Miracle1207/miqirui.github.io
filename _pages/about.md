@@ -40,7 +40,9 @@ We are closely collaborating with [Prof. Bo Li](https://liboecon.com/) from Peki
 
 # 🔥 News
 📢 I am currently on the **job market** for Fall 2026 positions. You can find my [**Curriculum Vitae (CV)**](../images/CV/MI_QIRUI_CV.pdf) here. If you are interested in my work, please feel free to reach out via email.
-- **2025.9**: Our 2 paper was accepted to NeurIPS 2025: [*EconGym: A Scalable AI Testbed with Diverse Economic Tasks*](https://www.arxiv.org/pdf/2506.12110), [*MF-LLM: Simulating Population Decision Dynamics via a Mean-Field Large Language Model Framework*](https://arxiv.org/abs/2504.21582).
+- **2025.9**: Two papers was accepted to NeurIPS 2025: 
+  - [*EconGym: A Scalable AI Testbed with Diverse Economic Tasks*](https://www.arxiv.org/pdf/2506.12110);
+  - [*MF-LLM: Simulating Population Decision Dynamics via a Mean-Field Large Language Model Framework*](https://arxiv.org/abs/2504.21582).
 - **2025.7**: Our paper was accepted to ECAI 2025: [*Learning Macroeconomic Policies through Dynamic Stackelberg Mean-Field Games*](https://arxiv.org/abs/2403.12093)
 - **2025.6.30–7.1**: I presented [**EconGym**](https://www.arxiv.org/pdf/2506.12110) at the [Conference on Machine Learning in Economics](https://liboecon.com/program.html), organized by [Prof. Bo Li](https://liboecon.com/) at Peking University.
 - **2025.6**: We released [**EconGym**](https://www.arxiv.org/pdf/2506.12110), a unified simulation platform bridging economics and AI, covering 25+ real-world economic tasks. 🌐 [website](https://miracle1207.github.io/econgym_page/)
