@@ -35,11 +35,12 @@ We are closely collaborating with [Prof. Bo Li](https://liboecon.com/) from Peki
   Supervisor:  [Prof. Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/) and [Prof. Haifeng Zhang](https://pkuzhf.github.io)
 
 - **Visiting Ph.D. in College of Computing and Data Science (CCDS), [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/)**  
-  Oct. 2024 – Present, Singapore  
+  Oct. 2024 – Aug. 2025, Singapore  
   Supervisor: [Prof. Bo An](https://personal.ntu.edu.sg/boan/)
 
 # 🔥 News
 📢 I am currently on the **job market** for Fall 2026 positions. You can find my [**Curriculum Vitae (CV)**](../images/CV/MI_QIRUI_CV.pdf) here. If you are interested in my work, please feel free to reach out via email.
+- **2025.9**: Our 2 paper was accepted to NeurIPS 2025: [*EconGym: A Scalable AI Testbed with Diverse Economic Tasks*](https://www.arxiv.org/pdf/2506.12110), [*MF-LLM: Simulating Population Decision Dynamics via a Mean-Field Large Language Model Framework*](https://arxiv.org/abs/2504.21582).
 - **2025.7**: Our paper was accepted to ECAI 2025: [*Learning Macroeconomic Policies through Dynamic Stackelberg Mean-Field Games*](https://arxiv.org/abs/2403.12093)
 - **2025.6.30–7.1**: I presented [**EconGym**](https://www.arxiv.org/pdf/2506.12110) at the [Conference on Machine Learning in Economics](https://liboecon.com/program.html), organized by [Prof. Bo Li](https://liboecon.com/) at Peking University.
 - **2025.6**: We released [**EconGym**](https://www.arxiv.org/pdf/2506.12110), a unified simulation platform bridging economics and AI, covering 25+ real-world economic tasks. 🌐 [website](https://miracle1207.github.io/econgym_page/)
@@ -65,7 +66,7 @@ We are closely collaborating with [Prof. Bo Li](https://liboecon.com/) from Peki
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Preprint</div>
+      <div class="badge">NeurIPS 2025</div>
       <img src='images/publications/EconGym.png' alt="sym" width="100%">
     </div>
   </div>
@@ -73,9 +74,9 @@ We are closely collaborating with [Prof. Bo Li](https://liboecon.com/) from Peki
   
   **EconGym: A Scalable AI Testbed with Diverse Economic Tasks**
 
-  **Qirui Mi**, Qipeng Yang, Zijun Fan, Wentian Fan, Heyang Ma, Chengdong Ma, Siyu Xia, Bo An, Jun Wang, Haifeng Zhang
+  **Qirui Mi**, Qipeng Yang, Zijun Fan, Wentian Fan, Heyang Ma, Chengdong Ma, Siyu Xia, Bo An, Jun Wang, Haifeng Zhang*
 
-  [Paper](https://www.arxiv.org/pdf/2506.12110), [Website](https://miracle1207.github.io/econgym_page/)
+  [Paper](https://www.arxiv.org/pdf/2506.12110), [Website](https://miracle1207.github.io/econgym_page/), [Github](https://github.com/Miracle1207/EconGym)
 
   </div>
 </div>
@@ -83,7 +84,7 @@ We are closely collaborating with [Prof. Bo Li](https://liboecon.com/) from Peki
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Preprint</div>
+      <div class="badge">NeurIPS 2025</div>
       <img src='images/publications/mf_llm.png' alt="sym" width="100%">
     </div>
   </div>
@@ -91,9 +92,9 @@ We are closely collaborating with [Prof. Bo Li](https://liboecon.com/) from Peki
   
   **MF-LLM: Simulating Population Decision Dynamics via a Mean-Field Large Language Model Framework**
 
-  **Qirui Mi**, Mengyue Yang, Xiangning Yu, Zhiyu Zhao, Cheng Deng, Bo An, Haifeng Zhang, Xu Chen, Jun Wang
+  **Qirui Mi**, Mengyue Yang, Xiangning Yu, Zhiyu Zhao, Cheng Deng, Bo An, Haifeng Zhang*, Xu Chen*, Jun Wang*
 
-  [Paper](https://arxiv.org/abs/2504.21582)
+  [Paper](https://arxiv.org/abs/2504.21582), [Github](https://github.com/Miracle1207/Mean-Field-LLM)
 
   </div>
 </div>
@@ -109,7 +110,7 @@ We are closely collaborating with [Prof. Bo Li](https://liboecon.com/) from Peki
   
   **Learning Macroeconomic Policies through Dynamic Stackelberg Mean-Field Games**
 
-  **Qirui Mi**, Zhiyu Zhao, Siyu Xia, Yan Song, Jun Wang, Haifeng Zhang
+  **Qirui Mi**, Zhiyu Zhao, Siyu Xia, Yan Song, Jun Wang, Haifeng Zhang*
 
   [Paper](https://arxiv.org/abs/2403.12093)
 
@@ -145,7 +146,7 @@ We are closely collaborating with [Prof. Bo Li](https://liboecon.com/) from Peki
   
   **Large Language Models Play StarCraft II: Benchmarks and a Chain of Summarization Approach, NeurIPS 2024**
 
-  Weiyu Ma, **Qirui Mi**, Yongcheng Zeng, Xue Yan, Yuqiao Wu, Runji Lin, Haifeng Zhang, Jun Wang
+  Weiyu Ma, **Qirui Mi**, Yongcheng Zeng, Xue Yan, Yuqiao Wu, Runji Lin, Haifeng Zhang, Jun Wang*
 
   [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f0ebc318e2df08360b2df559e81602e5-Abstract-Conference.html)
 
@@ -163,7 +164,7 @@ We are closely collaborating with [Prof. Bo Li](https://liboecon.com/) from Peki
   
   **TaxAI: A Dynamic Economic Simulator and Benchmark for Multi-Agent Reinforcement Learning, AAMAS 2024 (Oral)**
 
-  **Qirui Mi**, Siyu Xia, Yan Song, Haifeng Zhang, Shenghao Zhu, Jun Wang
+  **Qirui Mi**, Siyu Xia, Yan Song, Haifeng Zhang, Shenghao Zhu, Jun Wang*
 
   [Paper](https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p1390.pdf), [Github](https://github.com/jidiai/TaxAI)
 
