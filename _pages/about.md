@@ -115,6 +115,7 @@ We are closely collaborating with [Prof. Bo Li](https://liboecon.com/) from Peki
   <div class='paper-box-text' markdown="1">
   
   **Think, Speak, Decide: Language-Augmented Multi-Agent Reinforcement Learning for Economic Decision-Making**
+
   Heyang Ma†, **Qirui Mi†**, Qipeng Yang, Zijun Fan, Bo Li, Haifeng Zhang*
 
   </div>
