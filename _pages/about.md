@@ -40,6 +40,10 @@ We are closely collaborating with [Prof. Bo Li](https://liboecon.com/) from Peki
 
 # 🔥 News
 📢 I am currently on the **job market** for Fall 2026 positions. You can find my [**Curriculum Vitae (CV)**](../images/CV/MI_QIRUI_CV.pdf) here. If you are interested in my work, please feel free to reach out via email.
+
+- **2025.11**: Our paper was accepted to AAAI 2026, *Think, Speak, Decide: Language-Augmented Multi-Agent Reinforcement Learning for Economic Decision-Making*.
+- **2025.11**: Gave a talk at the School of Statistics and Data Science, SUFE — *AI Agents for Economic Decision-Making: Simulation and Policy Optimization*. [link](https://mp.weixin.qq.com/s/BR-ViylLEfajl9PQU3DIag)
+- **2025.11**: Gave a talk at the School of Computer and Artificial Intelligence, SUFE — *AI Agents for Economic Decision-Making: Simulation and Policy Optimization*. [link](https://mp.weixin.qq.com/s/UOfA07YrIsvB4tgiGgNJ3Q)
 - **2025.9**: Two papers was accepted to NeurIPS 2025: 
   - [*EconGym: A Scalable AI Testbed with Diverse Economic Tasks*](https://www.arxiv.org/pdf/2506.12110);
   - [*MF-LLM: Simulating Population Decision Dynamics via a Mean-Field Large Language Model Framework*](https://arxiv.org/abs/2504.21582).
@@ -100,6 +104,22 @@ We are closely collaborating with [Prof. Bo Li](https://liboecon.com/) from Peki
 
   </div>
 </div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">AAAI 2026</div>
+      <img src='images/publications/LAMP.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **Think, Speak, Decide: Language-Augmented Multi-Agent Reinforcement Learning for Economic Decision-Making**
+  Heyang Ma†, **Qirui Mi†**, Qipeng Yang, Zijun Fan, Bo Li, Haifeng Zhang*
+
+  </div>
+</div>
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
