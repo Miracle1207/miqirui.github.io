@@ -62,32 +62,32 @@ I closely collaborate with [Prof. Bo Li](https://liboecon.com/) from Peking Univ
 
 # 🎤 Invited Talks
 
-- **AI Agents for Economic Decision-Making: Simulation and Policy Optimization**  
-  Beijing Institute for General Artificial Intelligence (BIGAI), 2025.12  
-  *Invited by Prof. Xue Feng*.
+- **AI Agents for Economic Decision-Making: Simulation and Policy Optimization**       
+  Beijing Institute for General Artificial Intelligence (BIGAI), 2025.12       
+  *Invited by Prof. Xue Feng*.     
 
-- **AI Agents for Economic Decision-Making: Simulation and Policy Optimization**  
-  School of Statistics and Data Science, Shanghai University of Finance and Economics (SUFE), 2025.11  
-  *Invited by Prof. Zhiheng Zhang*.
+- **AI Agents for Economic Decision-Making: Simulation and Policy Optimization**       
+  School of Statistics and Data Science, Shanghai University of Finance and Economics (SUFE), 2025.11       
+  *Invited by Prof. Zhiheng Zhang*.     
   [link](https://mp.weixin.qq.com/s/BR-ViylLEfajl9PQU3DIag)
 
-- **AI Agents for Economic Decision-Making: Simulation and Policy Optimization**  
-  School of Computer and Artificial Intelligence, Shanghai University of Finance and Economics (SUFE), 2025.11  
+- **AI Agents for Economic Decision-Making: Simulation and Policy Optimization**       
+  School of Computer and Artificial Intelligence, Shanghai University of Finance and Economics (SUFE), 2025.11       
   [link](https://mp.weixin.qq.com/s/UOfA07YrIsvB4tgiGgNJ3Q)
 
-- **EconGym: A Scalable AI Testbed with Diverse Economic Tasks**  
-  [Conference on Machine Learning in Economics](https://liboecon.com/program.html), Peking University, 2025.6    
+- **EconGym: A Scalable AI Testbed with Diverse Economic Tasks**       
+  [Conference on Machine Learning in Economics](https://liboecon.com/program.html), Peking University, 2025.6         
   *Invited by Prof. Bo Li*.
 
-- **Game-Theoretic Agents for Economic and Social Governance**  
+- **Game-Theoretic Agents for Economic and Social Governance**       
   [Dadao Forum (大道论坛)](../images/publications/shandong_talk.png), Shandong Institute of Business and Technology, 2025.03    
-   *Invited by Prof. Chongjin Wang*.
+  *Invited by Prof. Chongjin Wang*.
 
-- **Game-Theoretic Agents for Economic Problems**  
+- **Game-Theoretic Agents for Economic Problems**       
   Shanghai Jiao Tong University ([JHC Lecture Series](https://mp.weixin.qq.com/s/sHpYNGbdhmb1I_BALd9NXg)), 2024.12   
   *Invited by Prof. Ying Wen*.
 
-- **Game-Theoretic Agents for Economic Problems**
+- **Game-Theoretic Agents for Economic Problems**     
   Fudan University, 2024.12   
   *Invited by Prof. Zhongyu Wei*.
 
