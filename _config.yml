@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "miqirui"
+title                    : "Qirui Mi (米祈睿)"
 description              : ""
 repository               : "Miracle1207/miqirui.github.io"
 google_scholar_stats_use_cdn : true
@@ -24,7 +24,7 @@ author:
   name             : "Qirui Mi (米祈睿)"
   avatar           : "images/miqirui_2025.JPG"
   bio              : "PHD student, CASIA"
-  location         : "Singapore"
+  location         : "Beijing, China"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=PaRrsDcAAAAJ"
@@ -57,6 +57,12 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+
+navigation:
+  - title: "Home"
+    url: /
+  - title: "CV"
+    url: /cv/
 
 
 # Reading Files
