@@ -1,14 +1,14 @@
 # main links
 main:
   - title: "Education"
-    url: "/#education"
+    url: "#education"
 
   - title: "Research"
-    url: "/#research-directions"
+    url: "#research-directions"
 
   - title: "Publications"
-    url: "/#selected-publications"
+    url: "#selected-publications"
 
   - title: "Talks"
-    url: "/#invited-talks"
+    url: "#invited-talks"
 

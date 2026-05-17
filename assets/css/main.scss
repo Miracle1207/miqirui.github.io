@@ -60,7 +60,7 @@
         width: 100%;
         order: 2;
         img {
-            max-width: 600px;
+            max-width: 800px;
             box-shadow: 0 1px 4px rgba(0,0,0,0.06);
             object-fit: cover;
             border-radius: 4px;
@@ -83,14 +83,14 @@
     @include breakpoint($medium) {
         .paper-box-image {
             justify-content: left;
-            min-width: 100px;
-            max-width: 30%;
+            min-width: 200px;
+            max-width: 40%;
             order: 1;
         }
         .paper-box-text {
             justify-content: left;
             padding-left: 2em;
-            max-width: 50%;
+            max-width: 55%;
             order: 2;
         }
     }
@@ -112,7 +112,7 @@ h1:before, .anchor:before {
     margin-top: .5em;
     margin-left: -.5em;
     color: white;
-    background-color: #475569;
+    background-color: #b91c1c;
     font-size: .72em;
     font-weight: 500;
     font-family: "Inter", sans-serif;
@@ -125,7 +125,7 @@ h1:before, .anchor:before {
 }
 
 .badge-oral {
-    background-color: #6d28d9;
+    background-color: #b91c1c;
 }
 
 
