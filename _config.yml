@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Qirui Mi (米祈睿)"
   avatar           : "images/miqirui_2025.JPG"
-  bio              : "PHD student, CASIA"
-  location         : "Beijing, China"
+  bio              : "Incoming Assistant Professor, SUFE"
+  location         : "Shanghai, China"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=PaRrsDcAAAAJ"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "Miracle1207"
   google_plus      :
   keybase          :
   instagram        :

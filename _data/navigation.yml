@@ -1,25 +1,13 @@
-# main links links
+# main links
 main:
-#  - title: "About Me"
-#    url: "/#-educations"
+  - title: "Research"
+    url: "/#research-directions"
 
-  # - title: "News"
-  #   url: "/#-news"
+  - title: "Publications"
+    url: "/#selected-publications"
 
-#   - title: "Publications"
-#     url: "/#-publications"
+  - title: "Talks"
+    url: "/#invited-talks"
 
-  # - title: "Awards"
-  #   url: "/#️-awards"
-
-  # - title: "Talks"
-  #   url: "/#-talks"
-
-  # - title: "Activities"
-  #   url: "/#-activities"
-
-  # - title: "Group"
-  #   url: "/#-group"
-
-  # - title: "Teaching"
-  #   url: "/#-teaching"
+  - title: "CV"
+    url: "/cv/"
