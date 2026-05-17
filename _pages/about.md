@@ -19,9 +19,7 @@ redirect_from:
 
 <div class="hero-tagline">
   <p class="tagline-text">Building intelligent agents that compute and learn the dynamics of economic systems.</p>
-  <a href="mailto:miqirui2021@ia.ac.cn" class="cta-button">
-    <i class="fas fa-envelope"></i>&nbsp; Contact Me
-  </a>
+  <a href="mailto:miqirui2021@ia.ac.cn" class="cta-button">Contact Me</a>
   <span class="cta-email">miqirui2021@ia.ac.cn</span>
 </div>
 
@@ -31,8 +29,30 @@ I am a final-year Ph.D. student at the Institute of Automation, Chinese Academy 
 
 I closely collaborate with [Prof. Bo Li](https://liboecon.com/) from Peking University on research at the intersection of artificial intelligence and economics.
 
-My research lies at the intersection of **AI for Economics** and **Economics of AI**. I have extensive experience in multi-agent systems, reinforcement learning, LLM-based agents, and collective decision-making for economic environments. Our group is actively exploring how intelligent agents can model, simulate, and optimize complex economic systems.
+My research lies at the intersection of **AI for Economics** and **Economics of AI**. I have extensive experience in multi-agent systems, reinforcement learning, LLM-based agents, and collective decision-making for economic environments.
 
+<div class="stats-bar">
+  <div class="stat-item">
+    <div class="stat-number">9</div>
+    <div class="stat-label">Publications</div>
+    <div class="stat-detail">NeurIPS · ICML · AAMAS</div>
+  </div>
+  <div class="stat-item">
+    <div class="stat-number">1</div>
+    <div class="stat-label">ICML Spotlight</div>
+    <div class="stat-detail">Top 2.6%</div>
+  </div>
+  <div class="stat-item">
+    <div class="stat-number">8</div>
+    <div class="stat-label">Invited Talks</div>
+    <div class="stat-detail">SJTU · Fudan · PKU</div>
+  </div>
+  <div class="stat-item">
+    <div class="stat-number">4</div>
+    <div class="stat-label">Research Areas</div>
+    <div class="stat-detail">AI + Economics</div>
+  </div>
+</div>
 
 <span class='anchor' id='education'></span>
 
@@ -54,8 +74,7 @@ My research lies at the intersection of **AI for Economics** and **Economics of 
 <div class="research-grid">
 
 <div class="research-card">
-  <div class="research-card-icon">🌍</div>
-  <h3>Economic World Model</h3>
+  <h3>🌍 Economic World Model</h3>
   <p>Building simulation environments and benchmarks that faithfully capture the dynamics of real-world economic systems — from taxation and trade to labor markets and monetary policy.</p>
   <div class="research-card-papers">
     <a href="https://miracle1207.github.io/econgym_page/" class="research-tag">EconGym <small>(NeurIPS'25)</small></a>
@@ -64,8 +83,7 @@ My research lies at the intersection of **AI for Economics** and **Economics of 
 </div>
 
 <div class="research-card">
-  <div class="research-card-icon">🏙️</div>
-  <h3>Social Simulation</h3>
+  <h3>🏙️ Social Simulation</h3>
   <p>Leveraging large language model agents to simulate population-level decision dynamics and emergent social phenomena, bridging computational models with realistic human behavior.</p>
   <div class="research-card-papers">
     <a href="https://github.com/Miracle1207/Mean-Field-LLM" class="research-tag">MF-LLM <small>(NeurIPS'25)</small></a>
@@ -74,8 +92,7 @@ My research lies at the intersection of **AI for Economics** and **Economics of 
 </div>
 
 <div class="research-card">
-  <div class="research-card-icon">🤝</div>
-  <h3>Multi-Agent Systems</h3>
+  <h3>🤝 Multi-Agent Systems</h3>
   <p>Designing algorithms for strategic interaction, equilibrium learning, and coordination in large-scale multi-agent systems, grounded in game theory and mean-field approaches.</p>
   <div class="research-card-papers">
     <a href="https://arxiv.org/abs/2403.12093" class="research-tag">DSMFG <small>(ECAI'25)</small></a>
@@ -85,11 +102,10 @@ My research lies at the intersection of **AI for Economics** and **Economics of 
 </div>
 
 <div class="research-card">
-  <div class="research-card-icon">🧠</div>
-  <h3>Experience-Driven Agent Learning</h3>
+  <h3>🧠 Experience-Driven Agent Learning</h3>
   <p>Enabling LLM agents to autonomously acquire reusable skills through interaction with environments, accumulating experience into structured procedural knowledge.</p>
   <div class="research-card-papers">
-    <a href="https://arxiv.org/abs/2602.01869" class="research-tag">Skill-Pro <small>(ICML'26 Spotlight)</small></a>
+    <a href="https://arxiv.org/abs/2602.01869" class="research-tag research-tag-highlight">Skill-Pro <small>(ICML'26 Spotlight)</small></a>
   </div>
 </div>
 
@@ -98,23 +114,35 @@ My research lies at the intersection of **AI for Economics** and **Economics of 
 
 # 🔥 News
 
-- **2026.5**: Successfully defended my Ph.D. dissertation! 🎓 A wonderful conclusion to five years of doctoral study.
-- **2026.4**: Our paper was accepted to **ICML 2026 as Spotlight (top 2.6%)**: [*Skill-Pro: Learning Reusable Skills from Experience via Non-Parametric PPO for LLM Agents*](https://arxiv.org/abs/2602.01869).
+<div class="headline-news">
+  <div class="headline-label">Highlight · May 2026</div>
+  <h3>Successfully defended my Ph.D. dissertation! 🎓</h3>
+  <p>A wonderful conclusion to five years of doctoral study at CASIA.</p>
+</div>
+
+<div class="headline-news">
+  <div class="headline-label">Highlight · Apr 2026</div>
+  <h3>Skill-Pro accepted to ICML 2026 as Spotlight (top 2.6%)</h3>
+  <p>Learning reusable skills from experience via non-parametric PPO for LLM agents.</p>
+  <div class="headline-links">
+    <a href="https://arxiv.org/abs/2602.01869">Paper →</a>
+    <a href="https://icml.cc/virtual/2026/poster/65830">Project →</a>
+  </div>
+</div>
+
 - **2025.12**: Attended [NeurIPS 2025](https://neurips.cc/) in San Diego, United States.
 - **2025.11**: Attended the [5th Workshop on Network Economics and Game Theory](https://mp.weixin.qq.com/s/oSSoEfwzSyrEQmZ8h84Slw).
-- **2025.11**: Our paper was accepted to AAAI 2026: [*Think, Speak, Decide: Language-Augmented Multi-Agent Reinforcement Learning for Economic Decision-Making*](https://arxiv.org/abs/2511.12876).
-- **2025.9**: Two papers were accepted to NeurIPS 2025: 
-  - [*EconGym: A Scalable AI Testbed with Diverse Economic Tasks*](https://www.arxiv.org/pdf/2506.12110);
-  - [*MF-LLM: Simulating Population Decision Dynamics via a Mean-Field Large Language Model Framework*](https://arxiv.org/abs/2504.21582).
-- **2025.7**: Our paper was accepted to ECAI 2025: [*Learning Macroeconomic Policies through Dynamic Stackelberg Mean-Field Games*](https://arxiv.org/abs/2403.12093).
-- **2025.6**: We released [**EconGym**](https://www.arxiv.org/pdf/2506.12110), a unified simulation platform bridging economics and AI, covering 25+ real-world economic tasks. 🌐 [website](https://miracle1207.github.io/econgym_page/)
-- **2025.5**: Attended [AAMAS 2025](https://aamas2025.org/) and gave talks on the AAMAS Competition and our accepted paper [*Mean Field Correlated Imitation Learning*](https://arxiv.org/abs/2404.09324).
+- **2025.11**: Our paper was accepted to AAAI 2026: [*Think, Speak, Decide*](https://arxiv.org/abs/2511.12876).
+- **2025.9**: Two papers accepted to NeurIPS 2025: [*EconGym*](https://www.arxiv.org/pdf/2506.12110) and [*MF-LLM*](https://arxiv.org/abs/2504.21582).
+- **2025.7**: Paper accepted to ECAI 2025: [*DSMFG*](https://arxiv.org/abs/2403.12093).
+- **2025.6**: Released [**EconGym**](https://www.arxiv.org/pdf/2506.12110), a unified simulation platform bridging economics and AI. 🌐 [website](https://miracle1207.github.io/econgym_page/)
+- **2025.5**: Attended [AAMAS 2025](https://aamas2025.org/) and gave talks on the AAMAS Competition and [*AMFCE*](https://arxiv.org/abs/2404.09324).
 - **2025.5**: Our [AAMAS 2025 Computational Economic Competition](http://jidiai.cn/aamas_tax_2025/) has successfully concluded!
-- **2025.5**: Released our new paper [*MF-LLM: Simulating Population Decision Dynamics via a Mean-Field Large Language Model Framework*](https://arxiv.org/abs/2504.21582).
-- **2025.3**: Our [AAMAS 2025 Computational Economic Competition](http://jidiai.cn/aamas_tax_2025/) has officially started!
-- **2025.2**: Our competition proposals were accepted by [AAMAS 2025](https://aamas2025.org/).
+- **2025.5**: Released [*MF-LLM*](https://arxiv.org/abs/2504.21582).
+- **2025.3**: [AAMAS 2025 Computational Economic Competition](http://jidiai.cn/aamas_tax_2025/) officially started!
+- **2025.2**: Competition proposals accepted by [AAMAS 2025](https://aamas2025.org/).
 - **2024.12**: Attended the [4th Workshop on Network Economics and Game Theory](https://asleepx.github.io/Workshop/).
-- **2024.12**: Our paper was accepted to AAMAS 2025: [*Mean Field Correlated Imitation Learning*](https://arxiv.org/abs/2404.09324).
+- **2024.12**: Paper accepted to AAMAS 2025: [*AMFCE*](https://arxiv.org/abs/2404.09324).
 - **2024.10**: Started a visiting position in Prof. Bo An's group.
 - **2024.5**: Attended [AAMAS 2024](https://www.aamas2024-conference.auckland.ac.nz/) and gave an oral presentation.
 
@@ -194,7 +222,6 @@ My research lies at the intersection of **AI for Economics** and **Economics of 
   </div>
 </div>
 
-
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -266,8 +293,6 @@ My research lies at the intersection of **AI for Economics** and **Economics of 
 
   </div>
 </div>
-
-
 
 <div class='paper-box'>
   <div class='paper-box-image'>
