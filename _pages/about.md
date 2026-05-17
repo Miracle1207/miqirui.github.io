@@ -24,30 +24,10 @@ redirect_from:
 </div>
 I am a final-year Ph.D. student at the Institute of Automation, Chinese Academy of Sciences (CASIA), working in [the Collective Decision Intelligence Lab](http://marl.ia.ac.cn/), supervised by [Prof. Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/) and [Prof. Haifeng Zhang](https://pkuzhf.github.io/). During 2024–2025, I was a Visiting Ph.D. student at Nanyang Technological University (NTU), co-advised by [Prof. Bo An](https://personal.ntu.edu.sg/boan/). I closely collaborate with [Prof. Bo Li](https://liboecon.com/) from Peking University on research at the intersection of artificial intelligence and economics.
 
+My technical background spans ``multi-agent systems``,`` reinforcement learning``, ``LLM-driven agents``, and ``collective decision-making``. I have extensive experience in **AI for Economics**, particularly **agent-based economic decision-making**, a direction I began pursuing when this intersection was still relatively underexplored. The core motivation is straightforward: *real-world economic systems are inherently large-scale multi-agent systems, making them a natural domain for multi-agent AI*.
+
 <div class="research-intro">
-  <div class="research-intro-keywords">
-    <span class="keyword">Multi-Agent Systems</span>
-    <span class="keyword">Reinforcement Learning</span>
-    <span class="keyword">LLM-Driven Agents</span>
-    <span class="keyword">Collective Decision-Making</span>
-  </div>
-  <p>I have extensive experience in <strong>AI for Economics</strong>, particularly <strong>agent-based economic decision-making</strong>, a direction I began pursuing when this intersection was still relatively underexplored. The core motivation is straightforward: <em>real-world economic systems are inherently large-scale multi-agent systems, making them a natural domain for multi-agent AI</em>.</p>
-</div>
-<div class="research-agenda">
-  <div class="agenda-item">
-    <div class="agenda-number">1</div>
-    <div class="agenda-content">
-      <div class="agenda-title">AI for Economics</div>
-      <div class="agenda-desc">Building <em>economic world models</em> that leverage AI to compute and forecast real-world economic dynamics, and solving for <em>optimal policies</em> that provide actionable insights for practice.</div>
-    </div>
-  </div>
-  <div class="agenda-item">
-    <div class="agenda-number">2</div>
-    <div class="agenda-content">
-      <div class="agenda-title">Agent Economy</div>
-      <div class="agenda-desc">Investigating how the rapid adoption of AI reshapes production, labor, and resource allocation, and designing <em>governance mechanisms</em> for AI's expanding economic role.</div>
-    </div>
-  </div>
+  <p>My research agenda has two complementary directions: (1) <strong>AI for Economics</strong>: building <strong>economic world models</strong> that leverage AI to compute and forecast real-world economic dynamics, and solving for optimal policies that provide actionable insights for practice; and (2) <strong>Agent Economy</strong>: investigating how the rapid adoption of AI reshapes production, labor, and resource allocation, and designing governance mechanisms for AI's expanding economic role.</em></p>
 </div>
 
 <p class="highlight-announcement">🎉 I will be joining the School of Computer Science and Artificial Intelligence at <strong>Shanghai University of Finance and Economics (SUFE)</strong> as an <strong>Assistant Professor</strong> in August 2026. If you are interested in our research directions, feel free to <a href="mailto:miqirui2021@ia.ac.cn">contact me</a>.</p>
