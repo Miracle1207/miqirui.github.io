@@ -27,11 +27,24 @@ redirect_from:
 
 I am a final-year Ph.D. student at the Institute of Automation, Chinese Academy of Sciences (CASIA), working in [the Collective Decision Intelligence Lab](http://marl.ia.ac.cn/), under the supervision of [Prof. Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/) and [Prof. Haifeng Zhang](https://pkuzhf.github.io/). During 2024–2025, I was a Visiting Ph.D. student at Nanyang Technological University (NTU), co-advised by [Prof. Bo An](https://personal.ntu.edu.sg/boan/).
 
-<p class="highlight-announcement">🎉 I will be joining the School of Computer Science and Artificial Intelligence at <strong>Shanghai University of Finance and Economics (SUFE)</strong> as an <strong>Assistant Professor</strong> in August 2026.</p>
+<p class="highlight-announcement">🎉 I will be joining the School of Computer Science and Artificial Intelligence at <strong>Shanghai University of Finance and Economics (SUFE)</strong> as an <strong>Assistant Professor</strong> in August 2026. If you are interested in our research directions, feel free to <a href="mailto:miqirui2021@ia.ac.cn">contact me</a>.</p>
 
 I closely collaborate with [Prof. Bo Li](https://liboecon.com/) from Peking University on research at the intersection of artificial intelligence and economics.
 
 My research lies at the intersection of **AI for Economics** and **Economics of AI**. I have extensive experience in multi-agent systems, reinforcement learning, LLM-based agents, and collective decision-making for economic environments. Our group is actively exploring how intelligent agents can model, simulate, and optimize complex economic systems.
+
+
+<span class='anchor' id='education'></span>
+
+# 📖 Education
+
+- **Ph.D. in Pattern Recognition and Intelligent Systems, [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/)**  
+  Sep. 2021 – Jun. 2026, Beijing, China  
+  Supervisor: [Prof. Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/) and [Prof. Haifeng Zhang](https://pkuzhf.github.io)
+
+- **Visiting Ph.D. in College of Computing and Data Science (CCDS), [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/)**  
+  Oct. 2024 – Aug. 2025, Singapore  
+  Supervisor: [Prof. Bo An](https://personal.ntu.edu.sg/boan/)
 
 
 <span class='anchor' id='research-directions'></span>
@@ -45,8 +58,8 @@ My research lies at the intersection of **AI for Economics** and **Economics of 
   <h3>Economic World Model</h3>
   <p>Building simulation environments and benchmarks that faithfully capture the dynamics of real-world economic systems — from taxation and trade to labor markets and monetary policy.</p>
   <div class="research-card-papers">
-    <span class="research-tag">EconGym <small>(NeurIPS'25)</small></span>
-    <span class="research-tag">TaxAI <small>(AAMAS'24 Oral)</small></span>
+    <a href="https://miracle1207.github.io/econgym_page/" class="research-tag">EconGym <small>(NeurIPS'25)</small></a>
+    <a href="https://github.com/jidiai/TaxAI" class="research-tag">TaxAI <small>(AAMAS'24 Oral)</small></a>
   </div>
 </div>
 
@@ -55,8 +68,8 @@ My research lies at the intersection of **AI for Economics** and **Economics of 
   <h3>Social Simulation</h3>
   <p>Leveraging large language model agents to simulate population-level decision dynamics and emergent social phenomena, bridging computational models with realistic human behavior.</p>
   <div class="research-card-papers">
-    <span class="research-tag">MF-LLM <small>(NeurIPS'25)</small></span>
-    <span class="research-tag">EconGym <small>(NeurIPS'25)</small></span>
+    <a href="https://github.com/Miracle1207/Mean-Field-LLM" class="research-tag">MF-LLM <small>(NeurIPS'25)</small></a>
+    <a href="https://miracle1207.github.io/econgym_page/" class="research-tag">EconGym <small>(NeurIPS'25)</small></a>
   </div>
 </div>
 
@@ -65,9 +78,9 @@ My research lies at the intersection of **AI for Economics** and **Economics of 
   <h3>Multi-Agent Systems</h3>
   <p>Designing algorithms for strategic interaction, equilibrium learning, and coordination in large-scale multi-agent systems, grounded in game theory and mean-field approaches.</p>
   <div class="research-card-papers">
-    <span class="research-tag">DSMFG <small>(ECAI'25)</small></span>
-    <span class="research-tag">LAMP <small>(AAAI'26)</small></span>
-    <span class="research-tag">AMFCE <small>(AAMAS'25)</small></span>
+    <a href="https://arxiv.org/abs/2403.12093" class="research-tag">DSMFG <small>(ECAI'25)</small></a>
+    <a href="https://arxiv.org/abs/2511.12876" class="research-tag">LAMP <small>(AAAI'26)</small></a>
+    <a href="https://arxiv.org/abs/2404.09324" class="research-tag">AMFCE <small>(AAMAS'25)</small></a>
   </div>
 </div>
 
@@ -76,13 +89,11 @@ My research lies at the intersection of **AI for Economics** and **Economics of 
   <h3>Experience-Driven Agent Learning</h3>
   <p>Enabling LLM agents to autonomously acquire reusable skills through interaction with environments, accumulating experience into structured procedural knowledge.</p>
   <div class="research-card-papers">
-    <span class="research-tag">Skill-Pro <small>(ICML'26 Spotlight)</small></span>
+    <a href="https://arxiv.org/abs/2602.01869" class="research-tag">Skill-Pro <small>(ICML'26 Spotlight)</small></a>
   </div>
 </div>
 
 </div>
-
-<p class="research-cta">If you are interested in these directions, feel free to <a href="mailto:miqirui2021@ia.ac.cn">reach out</a> for potential collaboration or to join our group.</p>
 
 
 # 🔥 News
@@ -281,52 +292,36 @@ My research lies at the intersection of **AI for Economics** and **Economics of 
 
 # 🎤 Invited Talks
 
-<div class="talks-list">
+- **AI Agents for Economic Decision-Making: Simulation and Policy Optimization**  
+  Beijing Institute for General Artificial Intelligence (BIGAI), 2025.12  
+  *Invited by Prof. Xue Feng*.
 
-- **AI Agents for Economic Decision-Making: Simulation and Policy Optimization**       
-  Beijing Institute for General Artificial Intelligence (BIGAI), 2025.12       
-  *Invited by Prof. Xue Feng*.     
+- **AI Agents for Economic Decision-Making: Simulation and Policy Optimization**  
+  School of Statistics and Data Science, Shanghai University of Finance and Economics (SUFE), 2025.11  
+  *Invited by Prof. Zhiheng Zhang*. [link](https://mp.weixin.qq.com/s/BR-ViylLEfajl9PQU3DIag)
 
-- **AI Agents for Economic Decision-Making: Simulation and Policy Optimization**       
-  School of Statistics and Data Science, Shanghai University of Finance and Economics (SUFE), 2025.11       
-  *Invited by Prof. Zhiheng Zhang*.     
-  [link](https://mp.weixin.qq.com/s/BR-ViylLEfajl9PQU3DIag)
-
-- **AI Agents for Economic Decision-Making: Simulation and Policy Optimization**       
-  School of Computer and Artificial Intelligence, Shanghai University of Finance and Economics (SUFE), 2025.11       
+- **AI Agents for Economic Decision-Making: Simulation and Policy Optimization**  
+  School of Computer and Artificial Intelligence, Shanghai University of Finance and Economics (SUFE), 2025.11  
   [link](https://mp.weixin.qq.com/s/UOfA07YrIsvB4tgiGgNJ3Q)
 
-- **EconGym: A Scalable AI Testbed with Diverse Economic Tasks**       
-  [Conference on Machine Learning in Economics](https://liboecon.com/program.html), Peking University, 2025.6         
+- **EconGym: A Scalable AI Testbed with Diverse Economic Tasks**  
+  [Conference on Machine Learning in Economics](https://liboecon.com/program.html), Peking University, 2025.6  
   *Invited by Prof. Bo Li*.
 
-- **Game-Theoretic Agents for Economic and Social Governance**       
-  [Dadao Forum (大道论坛)](../images/publications/shandong_talk.png), Shandong Institute of Business and Technology, 2025.03    
+- **Game-Theoretic Agents for Economic and Social Governance**  
+  [Dadao Forum (大道论坛)](../images/publications/shandong_talk.png), Shandong Institute of Business and Technology, 2025.03  
   *Invited by Prof. Chongjin Wang*.
 
-- **Game-Theoretic Agents for Economic Problems**       
-  Shanghai Jiao Tong University ([JHC Lecture Series](https://mp.weixin.qq.com/s/sHpYNGbdhmb1I_BALd9NXg)), 2024.12   
+- **Game-Theoretic Agents for Economic Problems**  
+  Shanghai Jiao Tong University ([JHC Lecture Series](https://mp.weixin.qq.com/s/sHpYNGbdhmb1I_BALd9NXg)), 2024.12  
   *Invited by Prof. Ying Wen*.
 
-- **Game-Theoretic Agents for Economic Problems**     
-  Fudan University, 2024.12   
+- **Game-Theoretic Agents for Economic Problems**  
+  Fudan University, 2024.12  
   *Invited by Prof. Zhongyu Wei*.
 
 - **TaxAI: A Dynamic Economic Simulator and Benchmark for Multi-Agent Reinforcement Learning**  
   International Conference on Distributed Artificial Intelligence (DAI 2024), 2024.12
-
-</div>
-
-
-# 📖 Education
-
-- **Ph.D. in Pattern Recognition and Intelligent Systems, [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/)**  
-  Sep. 2021 – Jun. 2026, Beijing, China  
-  Supervisor: [Prof. Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/) and [Prof. Haifeng Zhang](https://pkuzhf.github.io)
-
-- **Visiting Ph.D. in College of Computing and Data Science (CCDS), [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/)**  
-  Oct. 2024 – Aug. 2025, Singapore  
-  Supervisor: [Prof. Bo An](https://personal.ntu.edu.sg/boan/)
 
 
 # 🏆 Awards
@@ -336,23 +331,3 @@ My research lies at the intersection of **AI for Economics** and **Economics of 
 * Outstanding Undergraduate Thesis of Beijing Colleges and Universities · 2021
 * Meritorious Winner, Mathematical Contest in Modeling (MCM), USA · 2019
 * Second Prize, 10th 'Challenge Cup' Academic and Technological Works Competition for Beijing College Students · 2019
-
-
-<span class='anchor' id='join-us'></span>
-
-# 🚀 Join Us
-
-I am building a research group at **Shanghai University of Finance and Economics (SUFE)** starting from Fall 2026. I am looking for **self-motivated students** (Master's, Ph.D.) and **research interns** who are interested in:
-
-- 🌍 Economic simulation and world models for AI
-- 🏙️ LLM-powered social simulation and agent societies  
-- 🤝 Multi-agent reinforcement learning and game theory
-- 🧠 Autonomous skill learning for LLM agents
-
-If you share a passion for building AI systems that understand economic and social dynamics, please feel free to reach out with your CV and a brief description of your research interests.
-
-<div class="join-contact">
-  <a href="mailto:miqirui2021@ia.ac.cn" class="cta-button">
-    <i class="fas fa-envelope"></i>&nbsp; Get in Touch
-  </a>
-</div>

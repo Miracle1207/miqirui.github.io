@@ -46,13 +46,8 @@
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
-    border-bottom: 1px #e5e7eb solid;
-    padding: 2em 0 2em 0;
-    transition: background-color 0.2s ease;
-
-    &:hover {
-        background-color: #f9fafb;
-    }
+    border-bottom: 1px #f3f4f6 solid;
+    padding: 1.5em 0 1.5em 0;
     
     .paper-box-image {
         justify-content: center;
@@ -61,14 +56,9 @@
         order: 2;
         img {
             max-width: 600px;
-            box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
             object-fit: cover;
-            border-radius: 6px;
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-            &:hover {
-                transform: translateY(-2px);
-                box-shadow: 0 8px 24px rgba(0,0,0,0.15);
-            }
+            border-radius: 4px;
         }
     }
 
@@ -80,11 +70,9 @@
             text-decoration: none;
             color: #2563eb;
             font-weight: 500;
-            padding: 2px 6px;
-            border-radius: 4px;
-            transition: background 0.15s ease;
+            font-size: 0.9em;
             &:hover {
-                background: #eff6ff;
+                text-decoration: underline;
             }
         }
     }
@@ -117,24 +105,24 @@ h1:before, .anchor:before {
 }
 
 .badge {
-    padding: 0.25rem 0.75rem;
+    padding: 0.2rem 0.65rem;
     position: absolute;
     margin-top: .5em;
     margin-left: -.5em;
     color: white;
     background-color: #1e3a5f;
     font-size: .75em;
-    font-weight: 600;
-    letter-spacing: 0.02em;
+    font-weight: 500;
+    letter-spacing: 0.01em;
     border-radius: 0 4px 4px 0;
 }
 
 .badge-spotlight {
-    background: linear-gradient(135deg, #b91c1c, #dc2626);
+    background-color: #b91c1c;
 }
 
 .badge-oral {
-    background: linear-gradient(135deg, #7c3aed, #8b5cf6);
+    background-color: #6d28d9;
 }
 
 
@@ -143,45 +131,43 @@ h1:before, .anchor:before {
    ========================================================================== */
 
 .hero-tagline {
-    margin: 0 0 2em 0;
-    padding: 1.75em 2em;
-    background: linear-gradient(135deg, #f0f4f8 0%, #e8eef5 100%);
-    border-left: 4px solid #1e3a5f;
-    border-radius: 0 12px 12px 0;
+    margin: 0 0 1.75em 0;
+    padding: 1.5em 1.75em;
+    background: #f8fafc;
+    border-left: 3px solid #1e3a5f;
+    border-radius: 0 8px 8px 0;
 
     .tagline-text {
         font-family: "Source Serif 4", Georgia, serif;
-        font-size: 1.2em;
+        font-size: 1.15em;
         font-weight: 400;
         font-style: italic;
-        color: #1e3a5f;
+        color: #374151;
         line-height: 1.6;
         margin-bottom: 1em;
     }
 
     .cta-button {
         display: inline-block;
-        padding: 0.6em 1.5em;
+        padding: 0.5em 1.25em;
         background: #1e3a5f;
         color: #fff !important;
         text-decoration: none !important;
-        border-radius: 6px;
-        font-size: 0.9em;
-        font-weight: 600;
-        letter-spacing: 0.02em;
-        transition: all 0.2s ease;
+        border-radius: 5px;
+        font-size: 0.85em;
+        font-weight: 500;
+        letter-spacing: 0.01em;
+        transition: background 0.2s ease;
         &:hover {
             background: #2d5a8e;
-            transform: translateY(-1px);
-            box-shadow: 0 4px 12px rgba(30,58,95,0.3);
         }
     }
 
     .cta-email {
         display: inline-block;
         margin-left: 0.75em;
-        color: #6b7280;
-        font-size: 0.85em;
+        color: #9ca3af;
+        font-size: 0.82em;
         font-family: "JetBrains Mono", monospace;
     }
 }
@@ -193,12 +179,17 @@ h1:before, .anchor:before {
 
 .highlight-announcement {
     margin: 1.25em 0;
-    padding: 1em 1.25em;
-    background: #fef3c7;
-    border: 1px solid #fbbf24;
-    border-radius: 8px;
-    font-size: 0.95em;
+    padding: 0.9em 1.2em;
+    background: #fffbeb;
+    border: 1px solid #fde68a;
+    border-radius: 6px;
+    font-size: 0.92em;
     line-height: 1.6;
+
+    a {
+        color: #2563eb !important;
+        font-weight: 500;
+    }
 }
 
 
@@ -209,8 +200,8 @@ h1:before, .anchor:before {
 .research-grid {
     display: grid;
     grid-template-columns: 1fr;
-    gap: 1.25em;
-    margin: 1.5em 0;
+    gap: 1em;
+    margin: 1.25em 0;
 
     @include breakpoint($medium) {
         grid-template-columns: 1fr 1fr;
@@ -218,59 +209,41 @@ h1:before, .anchor:before {
 }
 
 .research-card {
-    padding: 1.5em;
+    padding: 1.25em 1.35em;
     border: 1px solid #e5e7eb;
-    border-radius: 12px;
+    border-radius: 8px;
     background: #fff;
-    transition: all 0.25s ease;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease;
     position: relative;
-    overflow: hidden;
-
-    &::before {
-        content: '';
-        position: absolute;
-        top: 0;
-        left: 0;
-        right: 0;
-        height: 3px;
-        background: linear-gradient(90deg, #1e3a5f, #3b82f6);
-        opacity: 0;
-        transition: opacity 0.25s ease;
-    }
 
     &:hover {
-        border-color: #bfdbfe;
-        box-shadow: 0 8px 24px rgba(30,58,95,0.08);
-        transform: translateY(-2px);
-
-        &::before {
-            opacity: 1;
-        }
+        border-color: #cbd5e1;
+        box-shadow: 0 2px 12px rgba(0,0,0,0.05);
     }
 
     .research-card-icon {
-        font-size: 2em;
-        margin-bottom: 0.4em;
+        font-size: 1.6em;
+        margin-bottom: 0.3em;
     }
 
     h3 {
-        margin: 0 0 0.5em 0;
-        font-size: 1.05em;
-        font-weight: 700;
-        color: #1e3a5f;
+        margin: 0 0 0.4em 0;
+        font-size: 0.98em;
+        font-weight: 600;
+        color: #1f2937;
     }
 
     p {
-        font-size: 0.88em;
-        color: #4b5563;
-        line-height: 1.65;
-        margin-bottom: 0.75em;
+        font-size: 0.84em;
+        color: #6b7280;
+        line-height: 1.6;
+        margin-bottom: 0.7em;
     }
 
     .research-card-papers {
         display: flex;
         flex-wrap: wrap;
-        gap: 0.4em;
+        gap: 0.35em;
     }
 }
 
@@ -283,52 +256,18 @@ h1:before, .anchor:before {
     font-weight: 500;
     border-radius: 4px;
     border: 1px solid #dbeafe;
+    text-decoration: none !important;
+    transition: background 0.15s ease, border-color 0.15s ease;
+
+    &:hover {
+        background: #dbeafe;
+        border-color: #93c5fd;
+        color: #1e3a8a;
+    }
 
     small {
         color: #6b7280;
         font-weight: 400;
-    }
-}
-
-.research-cta {
-    text-align: center;
-    margin: 1.5em 0 0 0;
-    padding: 1em;
-    background: #f9fafb;
-    border-radius: 8px;
-    font-size: 0.92em;
-    color: #4b5563;
-
-    a {
-        font-weight: 600;
-    }
-}
-
-
-/* ==========================================================================
-   JOIN US SECTION
-   ========================================================================== */
-
-.join-contact {
-    text-align: center;
-    margin-top: 1.25em;
-
-    .cta-button {
-        display: inline-block;
-        padding: 0.7em 2em;
-        background: #1e3a5f;
-        color: #fff !important;
-        text-decoration: none !important;
-        border-radius: 6px;
-        font-size: 0.95em;
-        font-weight: 600;
-        letter-spacing: 0.02em;
-        transition: all 0.2s ease;
-        &:hover {
-            background: #2d5a8e;
-            transform: translateY(-1px);
-            box-shadow: 0 4px 12px rgba(30,58,95,0.3);
-        }
     }
 }
 
@@ -341,49 +280,30 @@ h1:before, .anchor:before {
 
     h1 {
         font-family: "DM Sans", sans-serif;
-        font-weight: 700;
-        font-size: 1.45em;
-        color: #1e3a5f;
-        border-bottom: 2px solid #e5e7eb;
-        padding-bottom: 0.4em;
+        font-weight: 600;
+        font-size: 1.35em;
+        color: #1f2937;
+        border-bottom: 1px solid #e5e7eb;
+        padding-bottom: 0.35em;
         margin-top: 2em;
     }
 
     > ul > li {
-        padding: 0.15em 0;
+        padding: 0.1em 0;
         line-height: 1.7;
-    }
-
-    // News items styling
-    > ul > li > strong:first-child {
-        color: #1e3a5f;
-        font-weight: 600;
     }
 
     a {
         color: #2563eb;
         text-decoration: none;
-        border-bottom: 1px solid transparent;
-        transition: border-color 0.15s ease;
+        transition: color 0.15s ease;
 
         &:hover {
-            border-bottom-color: #2563eb;
-            text-decoration: none;
+            color: #1d4ed8;
+            text-decoration: underline;
         }
     }
 }
-
-/* Talks list */
-.talks-list {
-    li {
-        padding: 0.25em 0;
-        border-bottom: 1px solid #f3f4f6;
-        &:last-child {
-            border-bottom: none;
-        }
-    }
-}
-
 
 /* ==========================================================================
    SMOOTH SCROLL
