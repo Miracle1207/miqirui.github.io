@@ -425,12 +425,15 @@ html {
 /* ==========================================================================
    RESEARCH INTRO & AGENDA
    ========================================================================== */
-
+.highlight-blue {
+    color: #3b82f6;
+}
 .research-intro {
     margin: 1.5em 0;
     padding: 1.25em 1.5em;
     background: #f8fafc;
     border-radius: 8px;
+    font-size: 1.05em;
 
     .research-intro-keywords {
         display: flex;
