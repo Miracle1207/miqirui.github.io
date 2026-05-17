@@ -1,3 +1,3 @@
 👋 Hello, this is **Qirui Mi**'s [personal homepage](https://miracle1207.github.io/miqirui.github.io/) ~
 
-🏷️ *Ph.D. Student | Multi-Agent Systems | AI × Economics*
+🏷️ *Multi-Agent Systems | AI × Economics*
