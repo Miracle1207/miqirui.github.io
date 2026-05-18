@@ -115,7 +115,7 @@ h1:before, .anchor:before {
     background-color: #b91c1c;
     font-size: .72em;
     font-weight: 500;
-    font-family: "DM Sans", sans-serif;
+    font-family: "Inter", sans-serif;
     letter-spacing: 0.01em;
     border-radius: 0 3px 3px 0;
 }
@@ -141,9 +141,9 @@ h1:before, .anchor:before {
     border-radius: 0;
 
     .tagline-text {
-        font-family: "Fraunces", sans-serif;
+        font-family: "Manrope", sans-serif;
         font-size: 1.1em;
-        font-weight: 500;
+        font-weight: 700;
         color: #1e293b;
         line-height: 1.6;
         margin-bottom: 0.9em;
@@ -158,7 +158,7 @@ h1:before, .anchor:before {
         border-radius: 4px;
         font-size: 0.85em;
         font-weight: 500;
-        font-family: "DM Sans", sans-serif;
+        font-family: "Inter", sans-serif;
         transition: background 0.15s ease;
         &:hover {
             background: #334155;
@@ -214,7 +214,7 @@ h1:before, .anchor:before {
 }
 
 .stat-number {
-    font-family: "Fraunces", sans-serif;
+    font-family: "Manrope", sans-serif;
     font-size: 1.6em;
     font-weight: 700;
     color: #1e293b;
@@ -264,7 +264,7 @@ h1:before, .anchor:before {
 
     h3 {
         margin: 0 0 0.4em 0;
-        font-family: "Fraunces", sans-serif;
+        font-family: "Manrope", sans-serif;
         font-size: 0.95em;
         font-weight: 600;
         color: #1e293b;
@@ -339,11 +339,11 @@ h1:before, .anchor:before {
         text-transform: uppercase;
         letter-spacing: 0.04em;
         margin-bottom: 0.3em;
-        font-family: "DM Sans", sans-serif;
+        font-family: "Inter", sans-serif;
     }
 
     h3 {
-        font-family: "Fraunces", sans-serif;
+        font-family: "Manrope", sans-serif;
         font-size: 0.95em;
         font-weight: 600;
         color: #1e293b;
@@ -387,7 +387,7 @@ h1:before, .anchor:before {
 .page__content {
 
     h1 {
-        font-family: "Fraunces", sans-serif;
+        font-family: "Manrope", sans-serif;
         font-weight: 600;
         font-size: 1.3em;
         color: #1e293b;
@@ -449,7 +449,7 @@ html {
         font-size: 0.82em;
         font-weight: 500;
         color: #475569;
-        font-family: "DM Sans", sans-serif;
+        font-family: "Inter", sans-serif;
     }
 
     p {
@@ -500,13 +500,13 @@ html {
     justify-content: center;
     font-size: 0.8em;
     font-weight: 600;
-    font-family: "Fraunces", sans-serif;
+    font-family: "Manrope", sans-serif;
     flex-shrink: 0;
     margin-top: 2px;
 }
 
 .agenda-title {
-    font-family: "Fraunces", sans-serif;
+    font-family: "Manrope", sans-serif;
     font-size: 0.95em;
     font-weight: 600;
     color: #1e293b;
