@@ -27,7 +27,7 @@ I am a final-year Ph.D. student at the Institute of Automation, Chinese Academy 
 My technical background spans ``multi-agent systems``,`` reinforcement learning``, ``LLM-driven agents``, and ``collective decision-making``. I have extensive experience in **AI for Economics**, particularly **agent-based economic decision-making**, a direction I began pursuing when this intersection was still relatively underexplored. The core motivation is straightforward: <span class="highlight-blue">*real-world economic systems are inherently large-scale multi-agent systems, making them a natural domain for multi-agent AI*</span>.
 
 <div class="research-intro">
-  <p>💡 My research agenda has two complementary directions:<br>
+  <p>💡 My research agenda has two directions:<br>
   (1) <strong>AI for Economics</strong>: building <strong>economic world models</strong> that leverage AI to compute and forecast real-world economic dynamics, and solving for optimal policies that provide actionable insights for practice;<br>
   (2) <strong>Agent Economy</strong>: investigating how the rapid adoption of AI reshapes production, labor, and resource allocation, and designing governance mechanisms for AI's expanding economic role.</p>
 </div>
