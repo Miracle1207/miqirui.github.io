@@ -550,14 +550,14 @@ body {
    ========================================================================== */
 
 #main {
-    max-width: 1120px;
+    max-width: 1180px;
     margin-top: 2.2em;
     padding-left: 1.25em;
     padding-right: 1.25em;
 
     @include breakpoint($large) {
         display: grid;
-        grid-template-columns: minmax(0, 1fr) 230px;
+        grid-template-columns: 240px minmax(0, 1fr);
         column-gap: 3em;
         align-items: start;
     }
@@ -570,8 +570,8 @@ body {
     padding: 0 !important;
 
     @include breakpoint($large) {
-        grid-column: 1;
-        max-width: 760px;
+        grid-column: 2;
+        max-width: 820px;
     }
 }
 
@@ -582,7 +582,8 @@ body {
     padding: 0 !important;
 
     @include breakpoint($large) {
-        grid-column: 2;
+        grid-column: 1;
+        grid-row: 1;
         position: sticky;
         top: 5.25em;
         margin-top: 0 !important;
@@ -721,4 +722,35 @@ body {
     gap: 0.45em;
     margin-top: 2.15em;
     font-size: 1.42em;
+}
+
+@include breakpoint($large) {
+    .masthead__inner-wrap {
+        max-width: 1180px;
+    }
+
+    .masthead__menu {
+        display: flex;
+        flex: 1 1 auto;
+        justify-content: flex-end;
+        min-width: 0;
+    }
+
+    .greedy-nav {
+        max-width: 100%;
+        min-width: 0;
+
+        button:not(.hidden) ~ .visible-links {
+            padding-right: 44px;
+        }
+
+        a {
+            margin-left: 0.85rem;
+            margin-right: 0.85rem;
+        }
+    }
+
+    .masthead__menu-item--lg {
+        padding-right: 1.1em;
+    }
 }
