@@ -51,8 +51,19 @@
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
-    border-bottom: 1px #f1f5f9 solid;
-    padding: 1.5em 0;
+    margin: 1.1em 0;
+    padding: 1.25em;
+    background: rgba(255, 255, 255, 0.72);
+    border: 1px solid rgba(30, 64, 112, 0.12);
+    border-radius: 8px;
+    box-shadow: 0 16px 40px -32px rgba(17, 24, 39, 0.34);
+    transition: border-color 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease;
+
+    &:hover {
+        border-color: rgba(47, 111, 159, 0.3);
+        box-shadow: 0 22px 52px -34px rgba(17, 24, 39, 0.42);
+        transform: translateY(-1px);
+    }
     
     .paper-box-image {
         justify-content: center;
@@ -61,9 +72,10 @@
         order: 2;
         img {
             max-width: 800px;
-            box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+            box-shadow: 0 12px 30px -24px rgba(17,24,39,0.45);
             object-fit: cover;
-            border-radius: 4px;
+            border-radius: 6px;
+            border: 1px solid rgba(30, 64, 112, 0.11);
         }
     }
 
@@ -73,10 +85,13 @@
 
         a {
             text-decoration: none;
-            color: #3b82f6;
+            color: #1f5f8b;
             font-weight: 500;
             font-size: 0.9em;
-            &:hover { text-decoration: underline; }
+            &:hover {
+                color: #123f67;
+                text-decoration: underline;
+            }
         }
     }
 
@@ -107,25 +122,26 @@ h1:before, .anchor:before {
 }
 
 .badge {
-    padding: 0.2rem 0.6rem;
+    padding: 0.22rem 0.62rem;
     position: absolute;
     margin-top: .5em;
     margin-left: -.5em;
     color: white;
-    background-color: #b91c1c;
+    background-color: #1f5f8b;
     font-size: .72em;
-    font-weight: 500;
+    font-weight: 600;
     font-family: "Inter", sans-serif;
     letter-spacing: 0.01em;
     border-radius: 0 3px 3px 0;
+    box-shadow: 0 8px 18px -14px rgba(17, 24, 39, 0.6);
 }
 
 .badge-spotlight {
-    background-color: #b91c1c;
+    background-color: #1b6f8f;
 }
 
 .badge-oral {
-    background-color: #b91c1c;
+    background-color: #315f9d;
 }
 
 
@@ -135,16 +151,18 @@ h1:before, .anchor:before {
 
 .hero-tagline {
     margin: 0 0 1.5em 0;
-    padding: 1.25em 1.5em;
-    background: #f8fafc;
-    border-left: 3px solid #475569;
-    border-radius: 0;
+    padding: 1.35em 1.55em;
+    background: linear-gradient(135deg, rgba(237, 246, 255, 0.92), rgba(255, 255, 255, 0.78));
+    border: 1px solid rgba(30, 64, 112, 0.13);
+    border-left: 4px solid #2f6f9f;
+    border-radius: 8px;
+    box-shadow: 0 16px 40px -34px rgba(17, 24, 39, 0.34);
 
     .tagline-text {
-        font-family: "Plus Jakarta Sans", sans-serif;
-        font-size: 1.1em;
-        font-weight: 700;
-        color: #1e293b;
+        font-family: "Fraunces", "Noto Serif SC", serif;
+        font-size: 1.18em;
+        font-weight: 600;
+        color: #111827;
         line-height: 1.6;
         margin-bottom: 0.9em;
     }
@@ -152,23 +170,23 @@ h1:before, .anchor:before {
     .cta-button {
         display: inline-block;
         padding: 0.45em 1.2em;
-        background: #475569;
+        background: #1f5f8b;
         color: #fff !important;
         text-decoration: none !important;
-        border-radius: 4px;
+        border-radius: 999px;
         font-size: 0.85em;
-        font-weight: 500;
+        font-weight: 600;
         font-family: "Inter", sans-serif;
         transition: background 0.15s ease;
         &:hover {
-            background: #334155;
+            background: #123f67;
         }
     }
 
     .cta-email {
         display: inline-block;
         margin-left: 0.75em;
-        color: #64748b;
+        color: #55708a;
         font-size: 0.82em;
         font-family: "JetBrains Mono", monospace;
     }
@@ -182,14 +200,14 @@ h1:before, .anchor:before {
 .highlight-announcement {
     margin: 1.25em 0;
     padding: 0.85em 1.15em;
-    background: #fefce8;
-    border: 1px solid #fde68a;
+    background: #f1f8ff;
+    border: 1px solid rgba(47, 111, 159, 0.22);
     border-radius: 6px;
     font-size: 0.9em;
     line-height: 1.65;
 
     a {
-        color: #3b82f6 !important;
+        color: #1f5f8b !important;
         font-weight: 500;
     }
 }
@@ -207,30 +225,30 @@ h1:before, .anchor:before {
 }
 
 .stat-item {
-    background: #f8fafc;
+    background: #edf6ff;
     border-radius: 8px;
     padding: 1em 0.75em;
     text-align: center;
 }
 
 .stat-number {
-    font-family: "Plus Jakarta Sans", sans-serif;
+    font-family: "Fraunces", "Noto Serif SC", serif;
     font-size: 1.6em;
     font-weight: 700;
-    color: #1e293b;
+    color: #123f67;
     line-height: 1.2;
 }
 
 .stat-label {
     font-size: 0.78em;
     font-weight: 500;
-    color: #475569;
+    color: #315f7b;
     margin-top: 0.25em;
 }
 
 .stat-detail {
     font-size: 0.68em;
-    color: #64748b;
+    color: #55708a;
     margin-top: 0.15em;
 }
 
@@ -252,27 +270,27 @@ h1:before, .anchor:before {
 
 .research-card {
     padding: 1.2em 1.3em;
-    border: 1px solid #e2e8f0;
+    border: 1px solid rgba(30, 64, 112, 0.13);
     border-radius: 8px;
-    background: #fff;
+    background: rgba(255, 255, 255, 0.72);
     transition: border-color 0.2s ease, box-shadow 0.2s ease;
 
     &:hover {
-        border-color: #cbd5e1;
-        box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+        border-color: rgba(47, 111, 159, 0.3);
+        box-shadow: 0 16px 36px -30px rgba(17,24,39,0.4);
     }
 
     h3 {
         margin: 0 0 0.4em 0;
-        font-family: "Plus Jakarta Sans", sans-serif;
+        font-family: "Fraunces", "Noto Serif SC", serif;
         font-size: 0.95em;
         font-weight: 600;
-        color: #1e293b;
+        color: #111827;
     }
 
     p {
         font-size: 0.82em;
-        color: #475569;
+        color: #3b4b5f;
         line-height: 1.6;
         margin-bottom: 0.65em;
     }
@@ -287,8 +305,8 @@ h1:before, .anchor:before {
 .research-tag {
     display: inline-block;
     padding: 0.2em 0.55em;
-    background: #f1f5f9;
-    color: #475569;
+    background: #edf6ff;
+    color: #1f5f8b;
     font-size: 0.75em;
     font-weight: 500;
     border-radius: 3px;
@@ -296,27 +314,27 @@ h1:before, .anchor:before {
     transition: background 0.15s ease;
 
     &:hover {
-        background: #e2e8f0;
-        color: #334155;
+        background: #dceeff;
+        color: #123f67;
     }
 
     small {
-        color: #64748b;
+        color: #55708a;
         font-weight: 400;
     }
 }
 
 .research-tag-highlight {
-    background: #fef2f2;
-    color: #991b1b;
+    background: #e8f8fb;
+    color: #1b6f8f;
 
     &:hover {
-        background: #fee2e2;
-        color: #7f1d1d;
+        background: #d5f1f7;
+        color: #134d67;
     }
 
     small {
-        color: #b91c1c;
+        color: #2f7f98;
     }
 }
 
@@ -326,16 +344,17 @@ h1:before, .anchor:before {
    ========================================================================== */
 
 .headline-news {
-    background: #f8fafc;
+    background: rgba(237, 246, 255, 0.78);
     padding: 1em 1.2em;
     margin-bottom: 0.75em;
-    border-left: 3px solid #3b82f6;
-    border-radius: 0;
+    border: 1px solid rgba(47, 111, 159, 0.15);
+    border-left: 4px solid #2f6f9f;
+    border-radius: 8px;
 
     .headline-label {
         font-size: 0.7em;
         font-weight: 600;
-        color: #3b82f6;
+        color: #1f5f8b;
         text-transform: uppercase;
         letter-spacing: 0.04em;
         margin-bottom: 0.3em;
@@ -343,16 +362,16 @@ h1:before, .anchor:before {
     }
 
     h3 {
-        font-family: "Plus Jakarta Sans", sans-serif;
+        font-family: "Fraunces", "Noto Serif SC", serif;
         font-size: 0.95em;
         font-weight: 600;
-        color: #1e293b;
+        color: #111827;
         margin: 0 0 0.3em 0;
     }
 
     p {
         font-size: 0.82em;
-        color: #475569;
+        color: #3b4b5f;
         line-height: 1.55;
         margin-bottom: 0.5em;
     }
@@ -364,16 +383,16 @@ h1:before, .anchor:before {
 
         a {
             font-size: 0.72em;
-            color: #3b82f6;
+            color: #1f5f8b;
             text-decoration: none;
             padding: 0.15em 0.55em;
-            border: 1px solid #bfdbfe;
-            border-radius: 3px;
+            border: 1px solid rgba(47, 111, 159, 0.24);
+            border-radius: 999px;
             font-weight: 500;
             transition: background 0.15s ease;
 
             &:hover {
-                background: #eff6ff;
+                background: #dceeff;
             }
         }
     }
@@ -387,11 +406,11 @@ h1:before, .anchor:before {
 .page__content {
 
     h1 {
-        font-family: "Plus Jakarta Sans", sans-serif;
+        font-family: "Fraunces", "Noto Serif SC", serif;
         font-weight: 600;
-        font-size: 1.3em;
-        color: #1e293b;
-        border-bottom: 1px solid #e2e8f0;
+        font-size: 1.35em;
+        color: #111827;
+        border-bottom: 1px solid rgba(30, 64, 112, 0.14);
         padding-bottom: 0.35em;
         margin-top: 2em;
     }
@@ -402,12 +421,12 @@ h1:before, .anchor:before {
     }
 
     a {
-        color: #3b82f6;
+        color: #1f5f8b;
         text-decoration: none;
         transition: color 0.15s ease;
 
         &:hover {
-            color: #2563eb;
+            color: #123f67;
             text-decoration: underline;
         }
     }
@@ -429,7 +448,8 @@ html {
 .research-intro {
     margin: 1.5em 0;
     padding: 1.25em 1.5em;
-    background: #f8fafc;
+    background: rgba(237, 246, 255, 0.72);
+    border: 1px solid rgba(30, 64, 112, 0.12);
     border-radius: 8px;
     font-size: 1.1em;
 
@@ -444,24 +464,24 @@ html {
         display: inline-block;
         padding: 0.25em 0.7em;
         background: #fff;
-        border: 1px solid #e2e8f0;
+        border: 1px solid rgba(30, 64, 112, 0.13);
         border-radius: 4px;
         font-size: 0.82em;
         font-weight: 500;
-        color: #475569;
+        color: #3b4b5f;
         font-family: "Inter", sans-serif;
     }
 
     p {
         font-size: 0.92em;
-        color: #334155;
+        color: #25364a;
         line-height: 1.7;
         margin: 0;
     }
 }
 
 .highlight-blue {
-    color: #3b82f6;
+    color: #1f5f8b;
 }
 
 .research-agenda {
@@ -479,20 +499,20 @@ html {
     display: flex;
     gap: 1em;
     padding: 1.1em 1.25em;
-    border: 1px solid #e2e8f0;
+    border: 1px solid rgba(30, 64, 112, 0.13);
     border-radius: 8px;
     background: #fff;
     transition: border-color 0.2s ease;
 
     &:hover {
-        border-color: #cbd5e1;
+        border-color: rgba(47, 111, 159, 0.3);
     }
 }
 
 .agenda-number {
     width: 28px;
     height: 28px;
-    background: #3b82f6;
+    background: #1f5f8b;
     color: #fff;
     border-radius: 50%;
     display: flex;
@@ -500,22 +520,22 @@ html {
     justify-content: center;
     font-size: 0.8em;
     font-weight: 600;
-    font-family: "Plus Jakarta Sans", sans-serif;
+    font-family: "Inter", sans-serif;
     flex-shrink: 0;
     margin-top: 2px;
 }
 
 .agenda-title {
-    font-family: "Plus Jakarta Sans", sans-serif;
+    font-family: "Fraunces", "Noto Serif SC", serif;
     font-size: 0.95em;
     font-weight: 600;
-    color: #1e293b;
+    color: #111827;
     margin-bottom: 0.3em;
 }
 
 .agenda-desc {
     font-size: 0.82em;
-    color: #475569;
+    color: #3b4b5f;
     line-height: 1.6;
 }
 
