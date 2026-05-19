@@ -11,9 +11,7 @@ body {
   margin: 0;
   padding: 0;
   padding-bottom: 0em;
-  background:
-    linear-gradient(180deg, rgba(230, 242, 255, 0.82) 0, rgba(247, 251, 255, 0) 380px),
-    $background-color;
+  background: $background-color;
   color: $text-color;
   font-family: $global-font-family;
   font-weight: 400;
