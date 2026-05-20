@@ -99,16 +99,16 @@ My technical background spans **multi-agent systems**,  **reinforcement learning
   <h3>Successfully passed my PhD defense! 🎓</h3>
   <p>A wonderful conclusion to five years of doctoral study at CASIA.</p>
 </div>
-
 <div class="headline-news">
   <div class="headline-label">Highlight · Apr 2026</div>
-  <h3>Skill-Pro accepted to ICML 2026 as Spotlight (top 2.6%)</h3>
+  <h3>Skill-Pro accepted to ICML 2026 as Spotlight (top 2.2%)</h3>
   <p>Learning reusable skills from experience via non-parametric PPO for LLM agents.</p>
   <div class="headline-links">
     <a href="https://arxiv.org/abs/2602.01869">Paper →</a>
     <a href="https://icml.cc/virtual/2026/poster/65830">ICML pages →</a>
   </div>
 </div>
+
 
 - **2025.12**: Attended [NeurIPS 2025](https://neurips.cc/) in San Diego, United States.
 - **2025.11**: Attended the [5th Workshop on Network Economics and Game Theory](https://mp.weixin.qq.com/s/oSSoEfwzSyrEQmZ8h84Slw).
@@ -156,7 +156,7 @@ My technical background spans **multi-agent systems**,  **reinforcement learning
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">NeurIPS 2025</div>
+      <div class="badge badge-neurips">NeurIPS 2025</div>
       <img src='images/publications/EconGym.png' alt="EconGym" width="100%">
     </div>
   </div>
@@ -174,7 +174,7 @@ My technical background spans **multi-agent systems**,  **reinforcement learning
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">NeurIPS 2025</div>
+      <div class="badge badge-neurips">NeurIPS 2025</div>
       <img src='images/publications/mf_llm.png' alt="MF-LLM" width="100%">
     </div>
   </div>
@@ -245,7 +245,7 @@ My technical background spans **multi-agent systems**,  **reinforcement learning
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">NeurIPS 2024</div>
+      <div class="badge badge-neurips">NeurIPS 2024</div>
       <img src='images/publications/starcraft_LLM.png' alt="StarCraft LLM" width="100%">
     </div>
   </div>

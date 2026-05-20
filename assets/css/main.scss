@@ -85,7 +85,7 @@
 
         a {
             text-decoration: none;
-            color: #1f5f8b;
+            color: #155480;
             font-weight: 500;
             font-size: 0.9em;
             &:hover {
@@ -98,14 +98,14 @@
     @include breakpoint($medium) {
         .paper-box-image {
             justify-content: left;
-            min-width: 200px;
-            max-width: 40%;
+            min-width: 220px;
+            max-width: 46%;
             order: 1;
         }
         .paper-box-text {
             justify-content: left;
             padding-left: 2em;
-            max-width: 55%;
+            max-width: 50%;
             order: 2;
         }
     }
@@ -137,7 +137,11 @@ h1:before, .anchor:before {
 }
 
 .badge-spotlight {
-    background-color: #1b6f8f;
+    background-color: #b83232;
+}
+
+.badge-neurips {
+    background-color: #b83232;
 }
 
 .badge-oral {
@@ -200,9 +204,9 @@ h1:before, .anchor:before {
 .highlight-announcement {
     margin: 1.25em 0;
     padding: 0.85em 1.15em;
-    background: #fffcf2;
-    border: 1px solid rgba(196, 142, 50, 0.22);
-    border-left: 4px solid #c9892a;
+    background: #f6fdf8;
+    border: 1px solid rgba(34, 130, 80, 0.2);
+    border-left: 4px solid #2a9d6f;
     border-radius: 6px;
     font-size: 0.9em;
     line-height: 1.65;
@@ -307,7 +311,7 @@ h1:before, .anchor:before {
     display: inline-block;
     padding: 0.2em 0.55em;
     background: #edf6ff;
-    color: #1f5f8b;
+    color: #155480;
     font-size: 0.75em;
     font-weight: 500;
     border-radius: 3px;
@@ -355,7 +359,7 @@ h1:before, .anchor:before {
     .headline-label {
         font-size: 0.7em;
         font-weight: 600;
-        color: #1f5f8b;
+        color: #155480;
         text-transform: uppercase;
         letter-spacing: 0.04em;
         margin-bottom: 0.3em;
@@ -384,7 +388,7 @@ h1:before, .anchor:before {
 
         a {
             font-size: 0.72em;
-            color: #1f5f8b;
+            color: #155480;
             text-decoration: none;
             padding: 0.15em 0.55em;
             border: 1px solid rgba(47, 111, 159, 0.24);
@@ -422,7 +426,7 @@ h1:before, .anchor:before {
     }
 
     a {
-        color: #1f5f8b;
+        color: #155480;
         text-decoration: none;
         transition: color 0.15s ease;
 
@@ -482,7 +486,7 @@ html {
 }
 
 .highlight-blue {
-    color: #1f5f8b;
+    color: #155480;
 }
 
 .research-agenda {
@@ -660,7 +664,7 @@ body {
     }
 
     a {
-        color: #1f5f8b;
+        color: #155480;
         text-decoration: none;
 
         &:hover {
@@ -684,7 +688,7 @@ body {
         height: 28px;
         border: 1px solid rgba(30, 64, 112, 0.16);
         border-radius: 999px;
-        color: #1f5f8b;
+        color: #155480;
         text-decoration: none;
 
         &:hover {
