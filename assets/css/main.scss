@@ -127,7 +127,7 @@ h1:before, .anchor:before {
     margin-top: .5em;
     margin-left: -.5em;
     color: white;
-    background-color: #1f5f8b;
+    background-color: #b83232;
     font-size: .72em;
     font-weight: 600;
     font-family: "Inter", sans-serif;
@@ -745,13 +745,17 @@ body {
         max-width: 100%;
         min-width: 0;
 
-        button:not(.hidden) ~ .visible-links {
-            padding-right: 44px;
+        button {
+            display: none !important;
+        }
+
+        .hidden-links {
+            display: none !important;
         }
 
         a {
-            margin-left: 0.85rem;
-            margin-right: 0.85rem;
+            margin-left: 0.6rem;
+            margin-right: 0.6rem;
         }
     }
 
