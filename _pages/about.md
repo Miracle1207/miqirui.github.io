@@ -26,29 +26,17 @@ I am a final-year Ph.D. student at the Institute of Automation, Chinese Academy 
 
 My technical background spans **multi-agent systems**,  **reinforcement learning**, **LLM-driven agents**, and **collective decision-making**. I have extensive experience in **AI for Economics**, particularly **agent-based economic decision-making**, a direction I began pursuing when this intersection was still relatively underexplored. The core motivation is straightforward: **<span class="highlight-blue">*real-world economic systems are inherently large-scale multi-agent systems, making them a natural domain for multi-agent AI*</span>.**
 
-<div class="research-intro">
-  <p>💡 My research agenda has two directions:<br>
-  (1) <strong>AI for Economics</strong>: building <strong>economic world models</strong> that leverage AI to compute and forecast real-world economic dynamics, and solving for optimal policies that provide actionable insights for practice;<br>
-  (2) <strong>Agent Economy</strong>: investigating how the rapid adoption of AI reshapes production, labor, and resource allocation, and designing governance mechanisms for AI's expanding economic role.</p>
-</div>
-
 <p class="highlight-announcement">🎉 I will be joining the School of Computer Science and Artificial Intelligence at <strong>Shanghai University of Finance and Economics (SUFE)</strong> as an <strong>Assistant Professor</strong> in August 2026. If you are interested in our research directions, feel free to <a href="mailto:miqirui2021@ia.ac.cn">contact me</a>.</p>
-
-<span class='anchor' id='education'></span>
-
-# 📖 Education
-
-- **Ph.D. in Pattern Recognition and Intelligent Systems, [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/)**  
-  Sep. 2021 – Jun. 2026, Beijing, China  
-  Supervisor: [Prof. Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/) and [Prof. Haifeng Zhang](https://pkuzhf.github.io)
-
-- **Visiting Ph.D. in College of Computing and Data Science (CCDS), [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/)**  
-  Oct. 2024 – Aug. 2025, Singapore  
-  Supervisor: [Prof. Bo An](https://personal.ntu.edu.sg/boan/)
 
 <span class='anchor' id='research-directions'></span>
 
 # 🔬 Research Directions
+
+<div class="research-intro">
+  <p>💡 My research lies at the intersection of AI and Economics:<br>
+  (1) <strong>AI for Economics</strong>: building <strong>economic world models</strong> that leverage AI to compute and forecast real-world economic dynamics, and solving for optimal policies that provide actionable insights for practice;<br>
+  (2) <strong>Agent Economy</strong>: investigating how the rapid adoption of AI reshapes production, labor, and resource allocation, and designing governance mechanisms for AI's expanding economic role.</p>
+</div>
 
 <div class="research-grid">
 <div class="research-card">
@@ -59,7 +47,6 @@ My technical background spans **multi-agent systems**,  **reinforcement learning
     <a href="https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p1390.pdf" class="research-tag">TaxAI <small>(AAMAS'24 Oral)</small></a>
   </div>
 </div>
-
 
 
 <div class="research-card">
@@ -92,6 +79,23 @@ My technical background spans **multi-agent systems**,  **reinforcement learning
 </div>
 
 
+
+
+
+<span class='anchor' id='education'></span>
+
+# 📖 Education
+
+- **Ph.D. in Pattern Recognition and Intelligent Systems, [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/)**  
+  Sep. 2021 – Jun. 2026, Beijing, China  
+  Supervisor: [Prof. Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/) and [Prof. Haifeng Zhang](https://pkuzhf.github.io)
+
+- **Visiting Ph.D. in College of Computing and Data Science (CCDS), [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/)**  
+  Oct. 2024 – Aug. 2025, Singapore  
+  Supervisor: [Prof. Bo An](https://personal.ntu.edu.sg/boan/)
+
+
+<span class='anchor' id='news'></span>
 # 🔥 News
 
 <div class="headline-news">
