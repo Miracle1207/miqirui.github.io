@@ -26,7 +26,7 @@ I am an Assistant Professor at the School of Computer Science and Artificial Int
 
 My technical background spans **multi-agent systems**,  **reinforcement learning**, **LLM-driven agents**, and **collective decision-making**. I have extensive experience in **AI for Economics**, particularly **agent-based economic decision-making**, a direction I began pursuing when this intersection was still relatively underexplored. The core motivation is straightforward: **<span class="highlight-blue">*real-world economic systems are inherently large-scale multi-agent systems, making them a natural domain for multi-agent AI*</span>.**
 
-<p class="highlight-announcement">🎉 我正在招收今年 fall 的硕士生，持续招收实习生，和未来入学的博士生。请对我们研究方向感兴趣的同学<a href="mailto:miqirui@mail.sufe.edu.cn">联系我</a>！</p>
+<p class="highlight-announcement">🎉 我正在招收2026 fall 的硕士生，持续招收实习生，和未来入学的博士生。请对我们研究方向感兴趣的同学<a href="mailto:miqirui@mail.sufe.edu.cn">联系我</a>！</p>
 
 <span class='anchor' id='research-directions'></span>
 
