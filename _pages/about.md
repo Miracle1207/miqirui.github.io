@@ -19,14 +19,14 @@ redirect_from:
 
 <div class="hero-tagline">
   <p class="tagline-text">Building intelligent agents that compute and learn the dynamics of economic systems.</p>
-  <a href="mailto:miqirui2021@ia.ac.cn" class="cta-button">Contact Me</a>
-  <span class="cta-email">miqirui2021@ia.ac.cn</span>
+  <a href="mailto:miqirui@mail.sufe.edu.cn" class="cta-button">Contact Me</a>
+  <span class="cta-email">miqirui@mail.sufe.edu.cn</span>
 </div>
-I am a final-year Ph.D. student at the Institute of Automation, Chinese Academy of Sciences (CASIA), working in [the Collective Decision Intelligence Lab](http://marl.ia.ac.cn/), supervised by [Prof. Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/) and [Prof. Haifeng Zhang](https://pkuzhf.github.io/). During 2024–2025, I was a Visiting Ph.D. student at Nanyang Technological University (NTU), co-advised by [Prof. Bo An](https://personal.ntu.edu.sg/boan/). I closely collaborate with [Prof. Bo Li](https://liboecon.com/) from Peking University on research at the intersection of artificial intelligence and economics.
+I am an Assistant Professor at the School of Computer Science and Artificial Intelligence, Shanghai University of Finance and Economics (SUFE), working with [Prof. Pinyan Lu](http://pinyanlu.com/). I completed my Ph.D. in 2026 at the Institute of Automation, Chinese Academy of Sciences (CASIA), working in [the Collective Decision Intelligence Lab](http://marl.ia.ac.cn/), supervised by [Prof. Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/) and [Prof. Haifeng Zhang](https://pkuzhf.github.io/). During 2024–2025, I was a Visiting Ph.D. student at Nanyang Technological University (NTU), co-advised by [Prof. Bo An](https://personal.ntu.edu.sg/boan/). I closely collaborate with [Prof. Bo Li](https://liboecon.com/) from Peking University on research at the intersection of artificial intelligence and economics.
 
 My technical background spans **multi-agent systems**,  **reinforcement learning**, **LLM-driven agents**, and **collective decision-making**. I have extensive experience in **AI for Economics**, particularly **agent-based economic decision-making**, a direction I began pursuing when this intersection was still relatively underexplored. The core motivation is straightforward: **<span class="highlight-blue">*real-world economic systems are inherently large-scale multi-agent systems, making them a natural domain for multi-agent AI*</span>.**
 
-<p class="highlight-announcement">🎉 I will be joining the School of Computer Science and Artificial Intelligence at <strong>Shanghai University of Finance and Economics (SUFE)</strong> as an <strong>Assistant Professor</strong> in August 2026. If you are interested in our research directions, feel free to <a href="mailto:miqirui2021@ia.ac.cn">contact me</a>.</p>
+<p class="highlight-announcement">🎉 我正在招收今年 fall 的硕士生，持续招收实习生，和未来入学的博士生。请对我们研究方向感兴趣的同学<a href="mailto:miqirui@mail.sufe.edu.cn">联系我</a>！</p>
 
 <span class='anchor' id='research-directions'></span>
 
